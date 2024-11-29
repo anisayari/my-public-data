@@ -3,15 +3,34 @@
   "channelName": "Defend Intelligence",
   "channelDescription": "Je suis ingénieur en Intelligence Artificielle, et je réalise des vidéos de vulgarisations sur l’IA, le machine Learning , la Data Science. Je fais des vidéos d’actualité sur ces technologies mais aussi des tutos pour les débutants et expert..\n\nBienvenue dans la matrice.",
   "customUrl": "@defendintelligence",
-  "lastFetched": "2024-11-29T11:29:20.434Z",
+  "thumbnails": {
+    "default": {
+      "url": "https://yt3.ggpht.com/JaP1u9JclfZaya-SL_Ccx4Fr6tO9tu3HmD5BV7ZJq1uUuOQIysEVZBx0nqacjGS8LMJHazhtYso=s88-c-k-c0x00ffffff-no-rj",
+      "width": 88,
+      "height": 88
+    },
+    "medium": {
+      "url": "https://yt3.ggpht.com/JaP1u9JclfZaya-SL_Ccx4Fr6tO9tu3HmD5BV7ZJq1uUuOQIysEVZBx0nqacjGS8LMJHazhtYso=s240-c-k-c0x00ffffff-no-rj",
+      "width": 240,
+      "height": 240
+    },
+    "high": {
+      "url": "https://yt3.ggpht.com/JaP1u9JclfZaya-SL_Ccx4Fr6tO9tu3HmD5BV7ZJq1uUuOQIysEVZBx0nqacjGS8LMJHazhtYso=s800-c-k-c0x00ffffff-no-rj",
+      "width": 800,
+      "height": 800
+    }
+  },
+  "banner": "https://yt3.googleusercontent.com/kVuTMRGm6AEdiSw-p5LjRqgzT5lMJNn6u9o8j-LBd_mzi6ad21AMM4Fv7W5xrNWHf08P3tJ5",
+  "profilePicture": "https://yt3.ggpht.com/JaP1u9JclfZaya-SL_Ccx4Fr6tO9tu3HmD5BV7ZJq1uUuOQIysEVZBx0nqacjGS8LMJHazhtYso=s88-c-k-c0x00ffffff-no-rj",
+  "lastFetched": "2024-11-29T12:14:05.122Z",
   "totalVideos": "105",
   "subscriberCount": "163000",
   "viewCount": "5841564",
   "statistics": {
-    "totalViews": 5842990,
-    "totalLikes": 261136,
-    "totalComments": 17425,
-    "averageViews": 55648,
-    "shortVideosCount": 17
+    "totalViews": 5843120,
+    "totalLikes": 261157,
+    "totalComments": 17426,
+    "averageViews": 55649,
+    "shortVideosCount": 29
   }
 }
