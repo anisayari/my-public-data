@@ -88,11 +88,16 @@ async function fetchYouTubeData() {
     
     console.log('YouTube directory path:', youtubeDir);
 
-    // Test API key and get channel info
+    // Test API key and get channel info with branding
     console.log('\nFetching channel info...');
-    const channelResponse = await axios.get(
-      `https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics,contentDetails&id=${channelId}&key=${apiKey}`
-    );
+    const [channelResponse, brandingResponse] = await Promise.all([
+      axios.get(
+        `https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics,contentDetails&id=${channelId}&key=${apiKey}`
+      ),
+      axios.get(
+        `https://www.googleapis.com/youtube/v3/channels?part=brandingSettings&id=${channelId}&key=${apiKey}`
+      )
+    ]);
 
     if (!channelResponse.data.items?.length) {
       throw new Error('Invalid channel ID or API key');
@@ -118,8 +123,15 @@ async function fetchYouTubeData() {
     console.log('\nProcessing video data...');
     const videos = allVideos.map(item => {
       const details = videoDetails.find(v => v.id === item.id.videoId);
-      const duration = details?.contentDetails?.duration || 'N/A';
-      const isShort = duration.match(/PT(\d+)S/) && parseInt(duration.match(/PT(\d+)S/)[1]) <= 60;
+      const duration = details?.contentDetails?.duration || 'PT0S';
+      
+      // Convert duration to seconds
+      const durationInSeconds = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/).slice(1)
+        .map(x => parseInt(x) || 0)
+        .reduce((acc, x, i) => acc + x * [3600, 60, 1][i], 0);
+      
+      // Consider videos under 2 minutes as shorts
+      const isShort = durationInSeconds < 120;
       
       return {
         id: item.id.videoId,
@@ -129,6 +141,7 @@ async function fetchYouTubeData() {
         thumbnails: item.snippet.thumbnails,
         statistics: details?.statistics || {},
         duration: duration,
+        durationInSeconds,
         isShort: isShort,
         url: `https://www.youtube.com/watch?v=${item.id.videoId}`,
         engagement: {
@@ -149,12 +162,14 @@ async function fetchYouTubeData() {
       videos
     };
 
-    // Update metadata
+    // Update metadata with channel branding
     const metadata = {
       channelId,
       channelName: channelInfo.snippet.title,
       channelDescription: channelInfo.snippet.description,
       customUrl: channelInfo.snippet.customUrl,
+      thumbnails: channelInfo.snippet.thumbnails,
+      banner: brandingResponse.data.items[0]?.brandingSettings?.image?.bannerExternalUrl,
       lastFetched: new Date().toISOString(),
       totalVideos: channelInfo.statistics.videoCount,
       subscriberCount: channelInfo.statistics.subscriberCount,
@@ -184,13 +199,13 @@ async function fetchYouTubeData() {
     await fs.writeFile(metadataPath, JSON.stringify(metadata, null, 2));
 
     console.log('\nSummary:');
-    console.log(`- Total videos processed: ${videos.length}`);
     console.log(`- Channel name: ${metadata.channelName}`);
-    console.log(`- Total channel videos: ${metadata.totalVideos}`);
+    console.log(`- Profile picture: ${metadata.thumbnails?.default?.url || 'Not found'}`);
+    console.log(`- Banner image: ${metadata.banner || 'Not found'}`);
+    console.log(`- Total videos: ${metadata.totalVideos}`);
     console.log(`- Subscriber count: ${metadata.subscriberCount}`);
-    console.log(`- Short videos: ${metadata.statistics.shortVideosCount}`);
-    console.log(`- Average views: ${metadata.statistics.averageViews}`);
-    console.log(`- Last updated: ${videoData.lastUpdated}`);
+    console.log(`- Total views: ${metadata.viewCount}`);
+    console.log(`- Last updated: ${metadata.lastFetched}`);
     
     console.log('\n✅ YouTube data updated successfully');
   } catch (error) {
