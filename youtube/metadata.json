@@ -1,8 +1,17 @@
 {
   "channelId": "UCnEHCrot2HkySxMTmDPhZyg",
-  "channelName": "",
-  "lastFetched": "",
-  "totalVideos": 0,
-  "subscriberCount": 0,
-  "viewCount": 0
-} 
+  "channelName": "Defend Intelligence",
+  "channelDescription": "Je suis ingénieur en Intelligence Artificielle, et je réalise des vidéos de vulgarisations sur l’IA, le machine Learning , la Data Science. Je fais des vidéos d’actualité sur ces technologies mais aussi des tutos pour les débutants et expert..\n\nBienvenue dans la matrice.",
+  "customUrl": "@defendintelligence",
+  "lastFetched": "2024-11-29T11:29:20.434Z",
+  "totalVideos": "105",
+  "subscriberCount": "163000",
+  "viewCount": "5841564",
+  "statistics": {
+    "totalViews": 5842990,
+    "totalLikes": 261136,
+    "totalComments": 17425,
+    "averageViews": 55648,
+    "shortVideosCount": 17
+  }
+}
