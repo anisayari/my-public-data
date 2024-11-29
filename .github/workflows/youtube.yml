@@ -27,11 +27,17 @@ jobs:
       - name: Update YouTube data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node scripts/youtube/update.js
+        run: |
+          pwd
+          ls -la
+          node scripts/youtube/update.js
+          ls -la youtube/
         
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add youtube/data.json youtube/metadata.json
+          git status
+          git diff --staged
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update YouTube data" && git push) 

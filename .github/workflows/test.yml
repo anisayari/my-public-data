@@ -1,0 +1,26 @@
+name: Test YouTube Data Update
+
+on: workflow_dispatch
+
+jobs:
+  test-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: |
+          cd scripts/youtube
+          npm install axios
+          
+      - name: Test YouTube data fetch
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          node scripts/youtube/update.js 
