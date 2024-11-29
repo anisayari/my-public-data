@@ -1,0 +1,37 @@
+name: Update YouTube Data
+
+on:
+  schedule:
+    - cron: '0 0 */2 * *'  # Runs every 48 hours
+  push:
+    branches: [ main ]     # Run on every push to main branch
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update-youtube-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: |
+          cd scripts/youtube
+          npm install axios
+          
+      - name: Update YouTube data
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/youtube/update.js
+        
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add youtube/data.json youtube/metadata.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update YouTube data" && git push) 
