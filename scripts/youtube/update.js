@@ -92,7 +92,7 @@ async function fetchYouTubeData() {
     console.log('\nFetching channel info...');
     const [channelResponse, brandingResponse] = await Promise.all([
       axios.get(
-        `https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics,contentDetails&id=${channelId}&key=${apiKey}`
+        `https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics,contentDetails,brandingSettings&id=${channelId}&key=${apiKey}`
       ),
       axios.get(
         `https://www.googleapis.com/youtube/v3/channels?part=brandingSettings&id=${channelId}&key=${apiKey}`
@@ -170,6 +170,7 @@ async function fetchYouTubeData() {
       customUrl: channelInfo.snippet.customUrl,
       thumbnails: channelInfo.snippet.thumbnails,
       banner: brandingResponse.data.items[0]?.brandingSettings?.image?.bannerExternalUrl,
+      profilePicture: channelInfo.snippet.thumbnails?.default?.url,
       lastFetched: new Date().toISOString(),
       totalVideos: channelInfo.statistics.videoCount,
       subscriberCount: channelInfo.statistics.subscriberCount,
@@ -200,7 +201,7 @@ async function fetchYouTubeData() {
 
     console.log('\nSummary:');
     console.log(`- Channel name: ${metadata.channelName}`);
-    console.log(`- Profile picture: ${metadata.thumbnails?.default?.url || 'Not found'}`);
+    console.log(`- Profile picture: ${metadata.profilePicture || 'Not found'}`);
     console.log(`- Banner image: ${metadata.banner || 'Not found'}`);
     console.log(`- Total videos: ${metadata.totalVideos}`);
     console.log(`- Subscriber count: ${metadata.subscriberCount}`);
