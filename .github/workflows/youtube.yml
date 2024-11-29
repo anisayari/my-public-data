@@ -13,6 +13,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -35,9 +37,14 @@ jobs:
         
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add youtube/data.json youtube/metadata.json
           git status
           git diff --staged
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update YouTube data" && git push) 
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update YouTube data [skip ci]"
+            git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+          fi
