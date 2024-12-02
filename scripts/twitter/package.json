@@ -2,21 +2,25 @@
   "name": "twitter-bookmarks-fetcher",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "fetch": "ts-node fetch-bookmarks.ts",
-    "test": "ts-node test.ts",
-    "auth": "ts-node oauth-server.ts"
+    "fetch": "node --loader ts-node/esm fetch-bookmarks.ts",
+    "test": "node --loader ts-node/esm test.ts",
+    "auth": "node --loader ts-node/esm oauth-server.ts",
+    "test-refresh": "node --loader ts-node/esm test-refresh-workflow.ts"
   },
   "dependencies": {
+    "@octokit/rest": "^21.0.2",
     "axios": "^1.6.2",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "tweetsodium": "^0.0.6",
     "twitter-api-sdk": "^1.2.1",
     "twitter-api-v2": "^1.15.1"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
-    "@types/node": "^20.8.2",
+    "@types/node": "^20.17.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   }
