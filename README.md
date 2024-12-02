@@ -8,6 +8,10 @@ This repository serves as a public data source for my personal website. Data is 
 - `twitter/bookmarks.json`: Contains my latest 50 Twitter bookmarks, updated every 6 hours
 - `twitter/metadata.json`: Contains metadata about the bookmarks collection
 
+### YouTube
+- `youtube/data.json`: Contains information about my YouTube videos, updated every 48 hours
+- `youtube/metadata.json`: Contains channel statistics and metadata
+
 ## Setup
 
 1. Copy `.env.example` to `.env`
@@ -25,3 +29,9 @@ This repository serves as a public data source for my personal website. Data is 
 
 ## Updates
 - Twitter bookmarks are automatically fetched every 6 hours
+- YouTube data is updated every 48 hours
+- Both services can be manually triggered through GitHub Actions
+
+## Local Development
+
+### Twitter Setup
