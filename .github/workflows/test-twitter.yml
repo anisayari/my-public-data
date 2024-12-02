@@ -1,0 +1,50 @@
+name: Test Twitter Bookmarks Fetch
+
+on: workflow_dispatch
+
+jobs:
+  test-twitter:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: |
+          cd scripts/twitter
+          npm install
+          
+      - name: Test Twitter bookmarks fetch
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        run: |
+          cd scripts/twitter
+          npm run test
+          
+      - name: Check output files
+        run: |
+          if [ -f "twitter/bookmarks.json" ]; then
+            echo "✅ bookmarks.json was created successfully"
+            echo "First few lines of bookmarks.json:"
+            head -n 10 twitter/bookmarks.json
+          else
+            echo "❌ bookmarks.json was not created"
+            exit 1
+          fi
+          
+          if [ -f "twitter/metadata.json" ]; then
+            echo "✅ metadata.json was created successfully"
+            echo "Contents of metadata.json:"
+            cat twitter/metadata.json
+          else
+            echo "❌ metadata.json was not created"
+            exit 1
+          fi 

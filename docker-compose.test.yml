@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  twitter-test:
+    build:
+      context: .
+      dockerfile: Dockerfile.test
+    volumes:
+      - ./twitter:/app/twitter
+    environment:
+      - NODE_ENV=test 

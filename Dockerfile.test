@@ -1,0 +1,20 @@
+FROM node:18-alpine
+
+WORKDIR /app
+
+# Copy package files
+COPY scripts/twitter/package*.json ./scripts/twitter/
+COPY scripts/twitter/tsconfig.json ./scripts/twitter/
+
+# Copy source files
+COPY scripts/twitter/*.ts ./scripts/twitter/
+
+# Copy env file
+COPY .env ./
+
+# Install dependencies
+WORKDIR /app/scripts/twitter
+RUN npm install
+
+# Run test
+CMD ["npm", "run", "test"] 
