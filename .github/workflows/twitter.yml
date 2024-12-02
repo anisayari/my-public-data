@@ -3,7 +3,12 @@ name: Update Twitter Bookmarks
 on:
   schedule:
     - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:        # Allows manual trigger
+  push:
+    branches: [ main ]     # Run on every push to main branch
+  workflow_dispatch:       # Allows manual trigger
+
+permissions:
+  contents: write
 
 jobs:
   update-bookmarks:
@@ -36,4 +41,6 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add twitter/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Twitter bookmarks" && git push) 
+          git status
+          git diff --staged
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Twitter bookmarks [skip ci]" && git push)
