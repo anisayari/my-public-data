@@ -1,7 +1,45 @@
 {
-  "lastUpdated": "2025-01-03T00:08:20.514Z",
-  "totalVideos": 109,
+  "lastUpdated": "2025-01-05T00:09:05.289Z",
+  "totalVideos": 110,
   "videos": [
+    {
+      "id": "_jLtgP5jZx4",
+      "title": "Et si l’IA avait existé dans Jurassic Park ? Ça aurait fait un très très court métrage",
+      "description": "",
+      "publishedAt": "2025-01-03T07:44:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_jLtgP5jZx4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_jLtgP5jZx4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_jLtgP5jZx4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "8680",
+        "likeCount": "372",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "duration": "PT28S",
+      "durationInSeconds": 28,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=_jLtgP5jZx4",
+      "engagement": {
+        "views": 8680,
+        "likes": 372,
+        "comments": 10
+      }
+    },
     {
       "id": "BDbpGzgKxX8",
       "title": "Vous êtes d’accord ou pas ?",
@@ -25,8 +63,8 @@
         }
       },
       "statistics": {
-        "viewCount": "8033",
-        "likeCount": "298",
+        "viewCount": "8343",
+        "likeCount": "304",
         "favoriteCount": "0",
         "commentCount": "9"
       },
@@ -35,8 +73,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=BDbpGzgKxX8",
       "engagement": {
-        "views": 8033,
-        "likes": 298,
+        "views": 8343,
+        "likes": 304,
         "comments": 9
       }
     },
@@ -63,19 +101,19 @@
         }
       },
       "statistics": {
-        "viewCount": "8234",
-        "likeCount": "291",
+        "viewCount": "8383",
+        "likeCount": "297",
         "favoriteCount": "0",
-        "commentCount": "9"
+        "commentCount": "10"
       },
       "duration": "PT25S",
       "durationInSeconds": 25,
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=sRFM03NWzYg",
       "engagement": {
-        "views": 8234,
-        "likes": 291,
-        "comments": 9
+        "views": 8383,
+        "likes": 297,
+        "comments": 10
       }
     },
     {
@@ -101,19 +139,19 @@
         }
       },
       "statistics": {
-        "viewCount": "3928",
-        "likeCount": "164",
+        "viewCount": "3997",
+        "likeCount": "165",
         "favoriteCount": "0",
-        "commentCount": "19"
+        "commentCount": "20"
       },
       "duration": "PT2M39S",
       "durationInSeconds": 159,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ZZESk-wA7kM",
       "engagement": {
-        "views": 3928,
-        "likes": 164,
-        "comments": 19
+        "views": 3997,
+        "likes": 165,
+        "comments": 20
       }
     },
     {
@@ -139,8 +177,8 @@
         }
       },
       "statistics": {
-        "viewCount": "2529",
-        "likeCount": "107",
+        "viewCount": "2571",
+        "likeCount": "108",
         "favoriteCount": "0",
         "commentCount": "4"
       },
@@ -149,8 +187,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=deNb4BrmXPk",
       "engagement": {
-        "views": 2529,
-        "likes": 107,
+        "views": 2571,
+        "likes": 108,
         "comments": 4
       }
     },
@@ -177,8 +215,8 @@
         }
       },
       "statistics": {
-        "viewCount": "49644",
-        "likeCount": "5412",
+        "viewCount": "49750",
+        "likeCount": "5420",
         "favoriteCount": "0",
         "commentCount": "419"
       },
@@ -187,8 +225,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=J-93IHyGWAQ",
       "engagement": {
-        "views": 49644,
-        "likes": 5412,
+        "views": 49750,
+        "likes": 5420,
         "comments": 419
       }
     },
@@ -215,19 +253,19 @@
         }
       },
       "statistics": {
-        "viewCount": "6149",
-        "likeCount": "367",
+        "viewCount": "6410",
+        "likeCount": "379",
         "favoriteCount": "0",
-        "commentCount": "11"
+        "commentCount": "12"
       },
       "duration": "PT12S",
       "durationInSeconds": 12,
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=9VXq2RidOFc",
       "engagement": {
-        "views": 6149,
-        "likes": 367,
-        "comments": 11
+        "views": 6410,
+        "likes": 379,
+        "comments": 12
       }
     },
     {
@@ -253,8 +291,8 @@
         }
       },
       "statistics": {
-        "viewCount": "12527",
-        "likeCount": "454",
+        "viewCount": "12556",
+        "likeCount": "455",
         "favoriteCount": "0",
         "commentCount": "17"
       },
@@ -263,8 +301,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=CI4SAWi8AfY",
       "engagement": {
-        "views": 12527,
-        "likes": 454,
+        "views": 12556,
+        "likes": 455,
         "comments": 17
       }
     },
@@ -291,7 +329,7 @@
         }
       },
       "statistics": {
-        "viewCount": "34384",
+        "viewCount": "34526",
         "favoriteCount": "0",
         "commentCount": "35"
       },
@@ -300,7 +338,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=Oo4XriNppmw",
       "engagement": {
-        "views": 34384,
+        "views": 34526,
         "likes": 0,
         "comments": 35
       }
@@ -328,8 +366,8 @@
         }
       },
       "statistics": {
-        "viewCount": "81875",
-        "likeCount": "1810",
+        "viewCount": "82766",
+        "likeCount": "1833",
         "favoriteCount": "0",
         "commentCount": "71"
       },
@@ -338,8 +376,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=jA7AGV9vOEg",
       "engagement": {
-        "views": 81875,
-        "likes": 1810,
+        "views": 82766,
+        "likes": 1833,
         "comments": 71
       }
     },
@@ -366,7 +404,7 @@
         }
       },
       "statistics": {
-        "viewCount": "2654",
+        "viewCount": "2672",
         "likeCount": "36",
         "favoriteCount": "0",
         "commentCount": "0"
@@ -376,7 +414,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=BaMHFtLfmWE",
       "engagement": {
-        "views": 2654,
+        "views": 2672,
         "likes": 36,
         "comments": 0
       }
@@ -404,7 +442,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10038",
+        "viewCount": "10055",
         "likeCount": "470",
         "favoriteCount": "0",
         "commentCount": "23"
@@ -414,7 +452,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=U8IvNfnMwfM",
       "engagement": {
-        "views": 10038,
+        "views": 10055,
         "likes": 470,
         "comments": 23
       }
@@ -442,8 +480,8 @@
         }
       },
       "statistics": {
-        "viewCount": "44176",
-        "likeCount": "512",
+        "viewCount": "44202",
+        "likeCount": "514",
         "favoriteCount": "0",
         "commentCount": "20"
       },
@@ -452,8 +490,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=FsSdKPUdxQc",
       "engagement": {
-        "views": 44176,
-        "likes": 512,
+        "views": 44202,
+        "likes": 514,
         "comments": 20
       }
     },
@@ -480,19 +518,19 @@
         }
       },
       "statistics": {
-        "viewCount": "273154",
-        "likeCount": "18711",
+        "viewCount": "273338",
+        "likeCount": "18718",
         "favoriteCount": "0",
-        "commentCount": "1576"
+        "commentCount": "1578"
       },
       "duration": "PT29M13S",
       "durationInSeconds": 1753,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=4lkWl6NL2wg",
       "engagement": {
-        "views": 273154,
-        "likes": 18711,
-        "comments": 1576
+        "views": 273338,
+        "likes": 18718,
+        "comments": 1578
       }
     },
     {
@@ -518,7 +556,7 @@
         }
       },
       "statistics": {
-        "viewCount": "21772",
+        "viewCount": "21796",
         "favoriteCount": "0",
         "commentCount": "28"
       },
@@ -527,7 +565,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=MpITCPCxEaA",
       "engagement": {
-        "views": 21772,
+        "views": 21796,
         "likes": 0,
         "comments": 28
       }
@@ -555,7 +593,7 @@
         }
       },
       "statistics": {
-        "viewCount": "14106",
+        "viewCount": "14117",
         "favoriteCount": "0",
         "commentCount": "10"
       },
@@ -564,7 +602,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=qX_sZ3Mz_J4",
       "engagement": {
-        "views": 14106,
+        "views": 14117,
         "likes": 0,
         "comments": 10
       }
@@ -592,7 +630,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13314",
+        "viewCount": "13328",
         "favoriteCount": "0",
         "commentCount": "42"
       },
@@ -601,7 +639,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=o3HEu6X75vQ",
       "engagement": {
-        "views": 13314,
+        "views": 13328,
         "likes": 0,
         "comments": 42
       }
@@ -629,8 +667,8 @@
         }
       },
       "statistics": {
-        "viewCount": "7451",
-        "likeCount": "305",
+        "viewCount": "7458",
+        "likeCount": "306",
         "favoriteCount": "0",
         "commentCount": "11"
       },
@@ -639,8 +677,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=nlvX6pe4QNg",
       "engagement": {
-        "views": 7451,
-        "likes": 305,
+        "views": 7458,
+        "likes": 306,
         "comments": 11
       }
     },
@@ -667,8 +705,8 @@
         }
       },
       "statistics": {
-        "viewCount": "17328",
-        "likeCount": "1099",
+        "viewCount": "17410",
+        "likeCount": "1102",
         "favoriteCount": "0",
         "commentCount": "17"
       },
@@ -677,8 +715,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=_Tw6XwO9oIs",
       "engagement": {
-        "views": 17328,
-        "likes": 1099,
+        "views": 17410,
+        "likes": 1102,
         "comments": 17
       }
     },
@@ -705,7 +743,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15088",
+        "viewCount": "15096",
         "likeCount": "640",
         "favoriteCount": "0",
         "commentCount": "32"
@@ -715,7 +753,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=s7MkiP2O4qA",
       "engagement": {
-        "views": 15088,
+        "views": 15096,
         "likes": 640,
         "comments": 32
       }
@@ -743,7 +781,7 @@
         }
       },
       "statistics": {
-        "viewCount": "33028",
+        "viewCount": "33041",
         "likeCount": "2466",
         "favoriteCount": "0",
         "commentCount": "144"
@@ -753,7 +791,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ZwgErcdsPxE",
       "engagement": {
-        "views": 33028,
+        "views": 33041,
         "likes": 2466,
         "comments": 144
       }
@@ -781,7 +819,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10708",
+        "viewCount": "10716",
         "likeCount": "442",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -791,7 +829,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=ne0ehUEZeVE",
       "engagement": {
-        "views": 10708,
+        "views": 10716,
         "likes": 442,
         "comments": 13
       }
@@ -819,7 +857,7 @@
         }
       },
       "statistics": {
-        "viewCount": "11848",
+        "viewCount": "11852",
         "likeCount": "439",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -829,7 +867,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=N3wsX7NGm1s",
       "engagement": {
-        "views": 11848,
+        "views": 11852,
         "likes": 439,
         "comments": 13
       }
@@ -857,7 +895,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15321",
+        "viewCount": "15333",
         "likeCount": "562",
         "favoriteCount": "0",
         "commentCount": "26"
@@ -867,7 +905,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=7KbkCIEl03I",
       "engagement": {
-        "views": 15321,
+        "views": 15333,
         "likes": 562,
         "comments": 26
       }
@@ -895,7 +933,7 @@
         }
       },
       "statistics": {
-        "viewCount": "19128",
+        "viewCount": "19134",
         "likeCount": "580",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -905,7 +943,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=MGQJng4vg7E",
       "engagement": {
-        "views": 19128,
+        "views": 19134,
         "likes": 580,
         "comments": 6
       }
@@ -933,7 +971,7 @@
         }
       },
       "statistics": {
-        "viewCount": "8537",
+        "viewCount": "8541",
         "likeCount": "322",
         "favoriteCount": "0",
         "commentCount": "15"
@@ -943,7 +981,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=Aoeq__Rahxo",
       "engagement": {
-        "views": 8537,
+        "views": 8541,
         "likes": 322,
         "comments": 15
       }
@@ -971,7 +1009,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5715",
+        "viewCount": "5719",
         "likeCount": "312",
         "favoriteCount": "0",
         "commentCount": "35"
@@ -981,7 +1019,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=GNqJ3HzxNxI",
       "engagement": {
-        "views": 5715,
+        "views": 5719,
         "likes": 312,
         "comments": 35
       }
@@ -1009,7 +1047,7 @@
         }
       },
       "statistics": {
-        "viewCount": "6790",
+        "viewCount": "6793",
         "likeCount": "263",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1019,7 +1057,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=h7Gv6DTdDHY",
       "engagement": {
-        "views": 6790,
+        "views": 6793,
         "likes": 263,
         "comments": 6
       }
@@ -1047,8 +1085,8 @@
         }
       },
       "statistics": {
-        "viewCount": "7642",
-        "likeCount": "353",
+        "viewCount": "7675",
+        "likeCount": "354",
         "favoriteCount": "0",
         "commentCount": "20"
       },
@@ -1057,8 +1095,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=WWQayp09bUE",
       "engagement": {
-        "views": 7642,
-        "likes": 353,
+        "views": 7675,
+        "likes": 354,
         "comments": 20
       }
     },
@@ -1085,7 +1123,7 @@
         }
       },
       "statistics": {
-        "viewCount": "17784",
+        "viewCount": "17792",
         "likeCount": "764",
         "favoriteCount": "0",
         "commentCount": "36"
@@ -1095,7 +1133,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=qXtvKxSRw7U",
       "engagement": {
-        "views": 17784,
+        "views": 17792,
         "likes": 764,
         "comments": 36
       }
@@ -1123,7 +1161,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13952",
+        "viewCount": "13970",
         "likeCount": "666",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -1133,7 +1171,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=wTGa8y9GZvQ",
       "engagement": {
-        "views": 13952,
+        "views": 13970,
         "likes": 666,
         "comments": 17
       }
@@ -1161,8 +1199,8 @@
         }
       },
       "statistics": {
-        "viewCount": "9607",
-        "likeCount": "510",
+        "viewCount": "9613",
+        "likeCount": "511",
         "favoriteCount": "0",
         "commentCount": "22"
       },
@@ -1171,8 +1209,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=b4jfayGPKP4",
       "engagement": {
-        "views": 9607,
-        "likes": 510,
+        "views": 9613,
+        "likes": 511,
         "comments": 22
       }
     },
@@ -1199,7 +1237,7 @@
         }
       },
       "statistics": {
-        "viewCount": "6271",
+        "viewCount": "6273",
         "likeCount": "395",
         "favoriteCount": "0",
         "commentCount": "27"
@@ -1209,7 +1247,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=RsVQrWcrM-o",
       "engagement": {
-        "views": 6271,
+        "views": 6273,
         "likes": 395,
         "comments": 27
       }
@@ -1237,7 +1275,7 @@
         }
       },
       "statistics": {
-        "viewCount": "35394",
+        "viewCount": "35405",
         "likeCount": "2846",
         "favoriteCount": "0",
         "commentCount": "196"
@@ -1247,7 +1285,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=RNhcNKFRXcA",
       "engagement": {
-        "views": 35394,
+        "views": 35405,
         "likes": 2846,
         "comments": 196
       }
@@ -1275,8 +1313,8 @@
         }
       },
       "statistics": {
-        "viewCount": "111701",
-        "likeCount": "3836",
+        "viewCount": "111709",
+        "likeCount": "3835",
         "favoriteCount": "0",
         "commentCount": "245"
       },
@@ -1285,8 +1323,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=iH7oqFxHe6A",
       "engagement": {
-        "views": 111701,
-        "likes": 3836,
+        "views": 111709,
+        "likes": 3835,
         "comments": 245
       }
     },
@@ -1313,8 +1351,8 @@
         }
       },
       "statistics": {
-        "viewCount": "209705",
-        "likeCount": "8173",
+        "viewCount": "210000",
+        "likeCount": "8176",
         "favoriteCount": "0",
         "commentCount": "431"
       },
@@ -1323,8 +1361,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=HPKToUvKRkU",
       "engagement": {
-        "views": 209705,
-        "likes": 8173,
+        "views": 210000,
+        "likes": 8176,
         "comments": 431
       }
     },
@@ -1351,8 +1389,8 @@
         }
       },
       "statistics": {
-        "viewCount": "238992",
-        "likeCount": "6616",
+        "viewCount": "239021",
+        "likeCount": "6617",
         "favoriteCount": "0",
         "commentCount": "285"
       },
@@ -1361,8 +1399,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=h4CbouOCk30",
       "engagement": {
-        "views": 238992,
-        "likes": 6616,
+        "views": 239021,
+        "likes": 6617,
         "comments": 285
       }
     },
@@ -1389,19 +1427,19 @@
         }
       },
       "statistics": {
-        "viewCount": "189745",
+        "viewCount": "189798",
         "likeCount": "16389",
         "favoriteCount": "0",
-        "commentCount": "690"
+        "commentCount": "688"
       },
       "duration": "PT18M3S",
       "durationInSeconds": 1083,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=fNREoy1NvQ0",
       "engagement": {
-        "views": 189745,
+        "views": 189798,
         "likes": 16389,
-        "comments": 690
+        "comments": 688
       }
     },
     {
@@ -1427,7 +1465,7 @@
         }
       },
       "statistics": {
-        "viewCount": "31808",
+        "viewCount": "31810",
         "likeCount": "1638",
         "favoriteCount": "0",
         "commentCount": "85"
@@ -1437,7 +1475,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=_4ICxLCJczI",
       "engagement": {
-        "views": 31808,
+        "views": 31810,
         "likes": 1638,
         "comments": 85
       }
@@ -1465,7 +1503,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13751",
+        "viewCount": "13759",
         "likeCount": "608",
         "favoriteCount": "0",
         "commentCount": "27"
@@ -1475,7 +1513,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=yeGgyzbBB4M",
       "engagement": {
-        "views": 13751,
+        "views": 13759,
         "likes": 608,
         "comments": 27
       }
@@ -1503,7 +1541,7 @@
         }
       },
       "statistics": {
-        "viewCount": "135230",
+        "viewCount": "135241",
         "likeCount": "5189",
         "favoriteCount": "0",
         "commentCount": "482"
@@ -1513,7 +1551,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ECIas_koYcI",
       "engagement": {
-        "views": 135230,
+        "views": 135241,
         "likes": 5189,
         "comments": 482
       }
@@ -1542,7 +1580,7 @@
       },
       "statistics": {
         "viewCount": "146251",
-        "likeCount": "5309",
+        "likeCount": "5308",
         "favoriteCount": "0",
         "commentCount": "304"
       },
@@ -1552,7 +1590,7 @@
       "url": "https://www.youtube.com/watch?v=5eupaBf5yk0",
       "engagement": {
         "views": 146251,
-        "likes": 5309,
+        "likes": 5308,
         "comments": 304
       }
     },
@@ -1579,7 +1617,7 @@
         }
       },
       "statistics": {
-        "viewCount": "7656",
+        "viewCount": "7677",
         "likeCount": "363",
         "favoriteCount": "0",
         "commentCount": "19"
@@ -1589,7 +1627,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=mq6thEiKe7c",
       "engagement": {
-        "views": 7656,
+        "views": 7677,
         "likes": 363,
         "comments": 19
       }
@@ -1617,7 +1655,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5486",
+        "viewCount": "5489",
         "likeCount": "285",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1627,7 +1665,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=mDB-Uv2QOsQ",
       "engagement": {
-        "views": 5486,
+        "views": 5489,
         "likes": 285,
         "comments": 6
       }
@@ -1655,7 +1693,7 @@
         }
       },
       "statistics": {
-        "viewCount": "160614",
+        "viewCount": "160642",
         "likeCount": "7530",
         "favoriteCount": "0",
         "commentCount": "525"
@@ -1665,7 +1703,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=QEYBMXZG6yY",
       "engagement": {
-        "views": 160614,
+        "views": 160642,
         "likes": 7530,
         "comments": 525
       }
@@ -1693,8 +1731,8 @@
         }
       },
       "statistics": {
-        "viewCount": "33435",
-        "likeCount": "1998",
+        "viewCount": "33499",
+        "likeCount": "2000",
         "favoriteCount": "0",
         "commentCount": "58"
       },
@@ -1703,8 +1741,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=SrI0HhjK0aI",
       "engagement": {
-        "views": 33435,
-        "likes": 1998,
+        "views": 33499,
+        "likes": 2000,
         "comments": 58
       }
     },
@@ -1731,7 +1769,7 @@
         }
       },
       "statistics": {
-        "viewCount": "45789",
+        "viewCount": "45790",
         "likeCount": "2083",
         "favoriteCount": "0",
         "commentCount": "134"
@@ -1741,7 +1779,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ht_yzknn__s",
       "engagement": {
-        "views": 45789,
+        "views": 45790,
         "likes": 2083,
         "comments": 134
       }
@@ -1769,19 +1807,19 @@
         }
       },
       "statistics": {
-        "viewCount": "146060",
-        "likeCount": "8248",
+        "viewCount": "146072",
+        "likeCount": "8249",
         "favoriteCount": "0",
-        "commentCount": "518"
+        "commentCount": "517"
       },
       "duration": "PT20M8S",
       "durationInSeconds": 1208,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=IXxRtYhALRk",
       "engagement": {
-        "views": 146060,
-        "likes": 8248,
-        "comments": 518
+        "views": 146072,
+        "likes": 8249,
+        "comments": 517
       }
     },
     {
@@ -1807,8 +1845,8 @@
         }
       },
       "statistics": {
-        "viewCount": "210978",
-        "likeCount": "10552",
+        "viewCount": "211074",
+        "likeCount": "10554",
         "favoriteCount": "0",
         "commentCount": "239"
       },
@@ -1817,8 +1855,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=dVVsadPMNNg",
       "engagement": {
-        "views": 210978,
-        "likes": 10552,
+        "views": 211074,
+        "likes": 10554,
         "comments": 239
       }
     },
@@ -1845,8 +1883,8 @@
         }
       },
       "statistics": {
-        "viewCount": "384885",
-        "likeCount": "15588",
+        "viewCount": "384914",
+        "likeCount": "15590",
         "favoriteCount": "0",
         "commentCount": "676"
       },
@@ -1855,8 +1893,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=Vvqa5bxDU9Y",
       "engagement": {
-        "views": 384885,
-        "likes": 15588,
+        "views": 384914,
+        "likes": 15590,
         "comments": 676
       }
     },
@@ -1883,8 +1921,8 @@
         }
       },
       "statistics": {
-        "viewCount": "296220",
-        "likeCount": "13797",
+        "viewCount": "296242",
+        "likeCount": "13796",
         "favoriteCount": "0",
         "commentCount": "568"
       },
@@ -1893,8 +1931,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=AY8uhQETv4w",
       "engagement": {
-        "views": 296220,
-        "likes": 13797,
+        "views": 296242,
+        "likes": 13796,
         "comments": 568
       }
     },
@@ -1921,7 +1959,7 @@
         }
       },
       "statistics": {
-        "viewCount": "36805",
+        "viewCount": "36807",
         "likeCount": "1934",
         "favoriteCount": "0",
         "commentCount": "121"
@@ -1931,7 +1969,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=yqX_Tx9v3SI",
       "engagement": {
-        "views": 36805,
+        "views": 36807,
         "likes": 1934,
         "comments": 121
       }
@@ -1959,8 +1997,8 @@
         }
       },
       "statistics": {
-        "viewCount": "54925",
-        "likeCount": "2173",
+        "viewCount": "54927",
+        "likeCount": "2172",
         "favoriteCount": "0",
         "commentCount": "188"
       },
@@ -1969,8 +2007,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=PsX1HQJJ_u4",
       "engagement": {
-        "views": 54925,
-        "likes": 2173,
+        "views": 54927,
+        "likes": 2172,
         "comments": 188
       }
     },
@@ -1997,7 +2035,7 @@
         }
       },
       "statistics": {
-        "viewCount": "71771",
+        "viewCount": "71775",
         "likeCount": "3542",
         "favoriteCount": "0",
         "commentCount": "197"
@@ -2007,7 +2045,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=9hL5Zi1DUdU",
       "engagement": {
-        "views": 71771,
+        "views": 71775,
         "likes": 3542,
         "comments": 197
       }
@@ -2035,7 +2073,7 @@
         }
       },
       "statistics": {
-        "viewCount": "51747",
+        "viewCount": "51751",
         "likeCount": "3586",
         "favoriteCount": "0",
         "commentCount": "142"
@@ -2045,7 +2083,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=yn9A7ud3eXo",
       "engagement": {
-        "views": 51747,
+        "views": 51751,
         "likes": 3586,
         "comments": 142
       }
@@ -2073,8 +2111,8 @@
         }
       },
       "statistics": {
-        "viewCount": "89572",
-        "likeCount": "3132",
+        "viewCount": "89671",
+        "likeCount": "3133",
         "favoriteCount": "0",
         "commentCount": "146"
       },
@@ -2083,8 +2121,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=jmECuuw28wI",
       "engagement": {
-        "views": 89572,
-        "likes": 3132,
+        "views": 89671,
+        "likes": 3133,
         "comments": 146
       }
     },
@@ -2111,7 +2149,7 @@
         }
       },
       "statistics": {
-        "viewCount": "21689",
+        "viewCount": "21690",
         "likeCount": "1712",
         "favoriteCount": "0",
         "commentCount": "55"
@@ -2121,7 +2159,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=XvAbvbQ2LdY",
       "engagement": {
-        "views": 21689,
+        "views": 21690,
         "likes": 1712,
         "comments": 55
       }
@@ -2187,7 +2225,7 @@
         }
       },
       "statistics": {
-        "viewCount": "26614",
+        "viewCount": "26617",
         "likeCount": "1164",
         "favoriteCount": "0",
         "commentCount": "83"
@@ -2197,7 +2235,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=w1i8zc1B-Jw",
       "engagement": {
-        "views": 26614,
+        "views": 26617,
         "likes": 1164,
         "comments": 83
       }
@@ -2225,7 +2263,7 @@
         }
       },
       "statistics": {
-        "viewCount": "25189",
+        "viewCount": "25192",
         "likeCount": "1647",
         "favoriteCount": "0",
         "commentCount": "73"
@@ -2235,7 +2273,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=dqtPWWB7ypk",
       "engagement": {
-        "views": 25189,
+        "views": 25192,
         "likes": 1647,
         "comments": 73
       }
@@ -2263,8 +2301,8 @@
         }
       },
       "statistics": {
-        "viewCount": "53236",
-        "likeCount": "2583",
+        "viewCount": "53293",
+        "likeCount": "2584",
         "favoriteCount": "0",
         "commentCount": "69"
       },
@@ -2273,8 +2311,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=RC7GTAKoFGA",
       "engagement": {
-        "views": 53236,
-        "likes": 2583,
+        "views": 53293,
+        "likes": 2584,
         "comments": 69
       }
     },
@@ -2301,7 +2339,7 @@
         }
       },
       "statistics": {
-        "viewCount": "32353",
+        "viewCount": "32356",
         "likeCount": "2127",
         "favoriteCount": "0",
         "commentCount": "97"
@@ -2311,7 +2349,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=q8iu6UGQnAk",
       "engagement": {
-        "views": 32353,
+        "views": 32356,
         "likes": 2127,
         "comments": 97
       }
@@ -2339,7 +2377,7 @@
         }
       },
       "statistics": {
-        "viewCount": "32910",
+        "viewCount": "32911",
         "likeCount": "3028",
         "favoriteCount": "0",
         "commentCount": "168"
@@ -2349,7 +2387,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=6TApSIHkoe0",
       "engagement": {
-        "views": 32910,
+        "views": 32911,
         "likes": 3028,
         "comments": 168
       }
@@ -2415,7 +2453,7 @@
         }
       },
       "statistics": {
-        "viewCount": "31281",
+        "viewCount": "31283",
         "likeCount": "2302",
         "favoriteCount": "0",
         "commentCount": "78"
@@ -2425,7 +2463,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=cR6hVZoQfUg",
       "engagement": {
-        "views": 31281,
+        "views": 31283,
         "likes": 2302,
         "comments": 78
       }
@@ -2453,7 +2491,7 @@
         }
       },
       "statistics": {
-        "viewCount": "19698",
+        "viewCount": "19702",
         "likeCount": "1055",
         "favoriteCount": "0",
         "commentCount": "113"
@@ -2463,7 +2501,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=509G4WOeZzM",
       "engagement": {
-        "views": 19698,
+        "views": 19702,
         "likes": 1055,
         "comments": 113
       }
@@ -2491,7 +2529,7 @@
         }
       },
       "statistics": {
-        "viewCount": "54674",
+        "viewCount": "54686",
         "likeCount": "3166",
         "favoriteCount": "0",
         "commentCount": "184"
@@ -2501,7 +2539,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=Pr2iWzbyfMI",
       "engagement": {
-        "views": 54674,
+        "views": 54686,
         "likes": 3166,
         "comments": 184
       }
@@ -2529,7 +2567,7 @@
         }
       },
       "statistics": {
-        "viewCount": "43714",
+        "viewCount": "43717",
         "likeCount": "2565",
         "favoriteCount": "0",
         "commentCount": "272"
@@ -2539,7 +2577,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=N5K3LZi3Wf0",
       "engagement": {
-        "views": 43714,
+        "views": 43717,
         "likes": 2565,
         "comments": 272
       }
@@ -2567,8 +2605,8 @@
         }
       },
       "statistics": {
-        "viewCount": "170977",
-        "likeCount": "6745",
+        "viewCount": "170986",
+        "likeCount": "6746",
         "favoriteCount": "0",
         "commentCount": "456"
       },
@@ -2577,8 +2615,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=-nH-iBWWbeg",
       "engagement": {
-        "views": 170977,
-        "likes": 6745,
+        "views": 170986,
+        "likes": 6746,
         "comments": 456
       }
     },
@@ -2605,8 +2643,8 @@
         }
       },
       "statistics": {
-        "viewCount": "382222",
-        "likeCount": "21969",
+        "viewCount": "382225",
+        "likeCount": "21968",
         "favoriteCount": "0",
         "commentCount": "3520"
       },
@@ -2615,8 +2653,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=JALWR0Hu3BQ",
       "engagement": {
-        "views": 382222,
-        "likes": 21969,
+        "views": 382225,
+        "likes": 21968,
         "comments": 3520
       }
     },
@@ -2643,7 +2681,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13984",
+        "viewCount": "13995",
         "likeCount": "881",
         "favoriteCount": "0",
         "commentCount": "29"
@@ -2653,7 +2691,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=f-ZMJTY32jo",
       "engagement": {
-        "views": 13984,
+        "views": 13995,
         "likes": 881,
         "comments": 29
       }
@@ -2681,7 +2719,7 @@
         }
       },
       "statistics": {
-        "viewCount": "12007",
+        "viewCount": "12008",
         "likeCount": "519",
         "favoriteCount": "0",
         "commentCount": "47"
@@ -2691,7 +2729,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ABEDR1Y75p4",
       "engagement": {
-        "views": 12007,
+        "views": 12008,
         "likes": 519,
         "comments": 47
       }
@@ -2719,7 +2757,7 @@
         }
       },
       "statistics": {
-        "viewCount": "53796",
+        "viewCount": "53804",
         "likeCount": "1880",
         "favoriteCount": "0",
         "commentCount": "74"
@@ -2729,7 +2767,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=f3U91xgn5BQ",
       "engagement": {
-        "views": 53796,
+        "views": 53804,
         "likes": 1880,
         "comments": 74
       }
@@ -2757,7 +2795,7 @@
         }
       },
       "statistics": {
-        "viewCount": "11358",
+        "viewCount": "11359",
         "likeCount": "811",
         "favoriteCount": "0",
         "commentCount": "99"
@@ -2767,7 +2805,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=MhMs2PNz84Q",
       "engagement": {
-        "views": 11358,
+        "views": 11359,
         "likes": 811,
         "comments": 99
       }
@@ -2795,7 +2833,7 @@
         }
       },
       "statistics": {
-        "viewCount": "44536",
+        "viewCount": "44541",
         "likeCount": "2816",
         "favoriteCount": "0",
         "commentCount": "182"
@@ -2805,7 +2843,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=IiVBAoDqLC8",
       "engagement": {
-        "views": 44536,
+        "views": 44541,
         "likes": 2816,
         "comments": 182
       }
@@ -2833,7 +2871,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13774",
+        "viewCount": "13780",
         "likeCount": "503",
         "favoriteCount": "0",
         "commentCount": "40"
@@ -2843,7 +2881,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=GhBoDoNfQSw",
       "engagement": {
-        "views": 13774,
+        "views": 13780,
         "likes": 503,
         "comments": 40
       }
@@ -2909,8 +2947,8 @@
         }
       },
       "statistics": {
-        "viewCount": "108679",
-        "likeCount": "2746",
+        "viewCount": "108759",
+        "likeCount": "2747",
         "favoriteCount": "0",
         "commentCount": "113"
       },
@@ -2919,8 +2957,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=6FHtTyZxS5s",
       "engagement": {
-        "views": 108679,
-        "likes": 2746,
+        "views": 108759,
+        "likes": 2747,
         "comments": 113
       }
     },
@@ -2947,7 +2985,7 @@
         }
       },
       "statistics": {
-        "viewCount": "26392",
+        "viewCount": "26400",
         "likeCount": "1324",
         "favoriteCount": "0",
         "commentCount": "52"
@@ -2957,7 +2995,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=GlXeJ9Nr0N0",
       "engagement": {
-        "views": 26392,
+        "views": 26400,
         "likes": 1324,
         "comments": 52
       }
@@ -2985,8 +3023,8 @@
         }
       },
       "statistics": {
-        "viewCount": "104980",
-        "likeCount": "2867",
+        "viewCount": "105010",
+        "likeCount": "2868",
         "favoriteCount": "0",
         "commentCount": "281"
       },
@@ -2995,8 +3033,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ZkRqfp3Id6M",
       "engagement": {
-        "views": 104980,
-        "likes": 2867,
+        "views": 105010,
+        "likes": 2868,
         "comments": 281
       }
     },
@@ -3023,8 +3061,8 @@
         }
       },
       "statistics": {
-        "viewCount": "170763",
-        "likeCount": "3666",
+        "viewCount": "170838",
+        "likeCount": "3668",
         "favoriteCount": "0",
         "commentCount": "160"
       },
@@ -3033,8 +3071,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=CXf_7W-qACU",
       "engagement": {
-        "views": 170763,
-        "likes": 3666,
+        "views": 170838,
+        "likes": 3668,
         "comments": 160
       }
     },
@@ -3061,19 +3099,19 @@
         }
       },
       "statistics": {
-        "viewCount": "74471",
-        "likeCount": "2085",
+        "viewCount": "74503",
+        "likeCount": "2086",
         "favoriteCount": "0",
-        "commentCount": "210"
+        "commentCount": "212"
       },
       "duration": "PT16M16S",
       "durationInSeconds": 976,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=PjrhGk4zn0Q",
       "engagement": {
-        "views": 74471,
-        "likes": 2085,
-        "comments": 210
+        "views": 74503,
+        "likes": 2086,
+        "comments": 212
       }
     },
     {
@@ -3099,7 +3137,7 @@
         }
       },
       "statistics": {
-        "viewCount": "19865",
+        "viewCount": "19868",
         "likeCount": "659",
         "favoriteCount": "0",
         "commentCount": "53"
@@ -3109,7 +3147,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=0r_9-LOWUQw",
       "engagement": {
-        "views": 19865,
+        "views": 19868,
         "likes": 659,
         "comments": 53
       }
@@ -3137,7 +3175,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10968",
+        "viewCount": "10970",
         "likeCount": "322",
         "favoriteCount": "0",
         "commentCount": "49"
@@ -3147,7 +3185,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=vvFRSZNML30",
       "engagement": {
-        "views": 10968,
+        "views": 10970,
         "likes": 322,
         "comments": 49
       }
@@ -3175,7 +3213,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10701",
+        "viewCount": "10703",
         "likeCount": "350",
         "favoriteCount": "0",
         "commentCount": "70"
@@ -3185,7 +3223,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=iXo2KdXqMG0",
       "engagement": {
-        "views": 10701,
+        "views": 10703,
         "likes": 350,
         "comments": 70
       }
@@ -3213,7 +3251,7 @@
         }
       },
       "statistics": {
-        "viewCount": "16038",
+        "viewCount": "16039",
         "likeCount": "812",
         "favoriteCount": "0",
         "commentCount": "100"
@@ -3223,7 +3261,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=5FM2YQAFX7w",
       "engagement": {
-        "views": 16038,
+        "views": 16039,
         "likes": 812,
         "comments": 100
       }
@@ -3289,8 +3327,8 @@
         }
       },
       "statistics": {
-        "viewCount": "221364",
-        "likeCount": "8267",
+        "viewCount": "221606",
+        "likeCount": "8277",
         "favoriteCount": "0",
         "commentCount": "417"
       },
@@ -3299,8 +3337,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=hFrAc9gET9M",
       "engagement": {
-        "views": 221364,
-        "likes": 8267,
+        "views": 221606,
+        "likes": 8277,
         "comments": 417
       }
     },
@@ -3327,7 +3365,7 @@
         }
       },
       "statistics": {
-        "viewCount": "9123",
+        "viewCount": "9124",
         "likeCount": "443",
         "favoriteCount": "0",
         "commentCount": "37"
@@ -3337,7 +3375,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=lLoEZrAaCEk",
       "engagement": {
-        "views": 9123,
+        "views": 9124,
         "likes": 443,
         "comments": 37
       }
@@ -3365,7 +3403,7 @@
         }
       },
       "statistics": {
-        "viewCount": "30617",
+        "viewCount": "30618",
         "likeCount": "1358",
         "favoriteCount": "0",
         "commentCount": "99"
@@ -3375,7 +3413,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=0-OWLIuJmgE",
       "engagement": {
-        "views": 30617,
+        "views": 30618,
         "likes": 1358,
         "comments": 99
       }
@@ -3403,7 +3441,7 @@
         }
       },
       "statistics": {
-        "viewCount": "9075",
+        "viewCount": "9078",
         "likeCount": "454",
         "favoriteCount": "0",
         "commentCount": "51"
@@ -3413,7 +3451,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=Jggy1d7YbVA",
       "engagement": {
-        "views": 9075,
+        "views": 9078,
         "likes": 454,
         "comments": 51
       }
@@ -3441,7 +3479,7 @@
         }
       },
       "statistics": {
-        "viewCount": "8438",
+        "viewCount": "8441",
         "likeCount": "315",
         "favoriteCount": "0",
         "commentCount": "33"
@@ -3451,7 +3489,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=51-HWa54wb4",
       "engagement": {
-        "views": 8438,
+        "views": 8441,
         "likes": 315,
         "comments": 33
       }
@@ -3479,7 +3517,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10679",
+        "viewCount": "10682",
         "likeCount": "546",
         "favoriteCount": "0",
         "commentCount": "32"
@@ -3489,7 +3527,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=-0USVkgO8zc",
       "engagement": {
-        "views": 10679,
+        "views": 10682,
         "likes": 546,
         "comments": 32
       }
@@ -3517,7 +3555,7 @@
         }
       },
       "statistics": {
-        "viewCount": "11838",
+        "viewCount": "11843",
         "likeCount": "305",
         "favoriteCount": "0",
         "commentCount": "32"
@@ -3527,7 +3565,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=kIJ6m1NKnIQ",
       "engagement": {
-        "views": 11838,
+        "views": 11843,
         "likes": 305,
         "comments": 32
       }
@@ -3555,7 +3593,7 @@
         }
       },
       "statistics": {
-        "viewCount": "11064",
+        "viewCount": "11070",
         "likeCount": "168",
         "favoriteCount": "0",
         "commentCount": "22"
@@ -3565,7 +3603,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ymfTklOJyo0",
       "engagement": {
-        "views": 11064,
+        "views": 11070,
         "likes": 168,
         "comments": 22
       }
@@ -3593,7 +3631,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13742",
+        "viewCount": "13750",
         "likeCount": "268",
         "favoriteCount": "0",
         "commentCount": "20"
@@ -3603,7 +3641,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ycscfnOSv8Y",
       "engagement": {
-        "views": 13742,
+        "views": 13750,
         "likes": 268,
         "comments": 20
       }
@@ -3631,7 +3669,7 @@
         }
       },
       "statistics": {
-        "viewCount": "4749",
+        "viewCount": "4759",
         "likeCount": "90",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -3641,7 +3679,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=hjFrNN5SXjQ",
       "engagement": {
-        "views": 4749,
+        "views": 4759,
         "likes": 90,
         "comments": 8
       }
@@ -3669,7 +3707,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5145",
+        "viewCount": "5149",
         "likeCount": "103",
         "favoriteCount": "0",
         "commentCount": "11"
@@ -3679,7 +3717,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=KNToNvz3BJY",
       "engagement": {
-        "views": 5145,
+        "views": 5149,
         "likes": 103,
         "comments": 11
       }
@@ -3707,7 +3745,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5548",
+        "viewCount": "5553",
         "likeCount": "120",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -3717,7 +3755,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ZmFm8r-tt6E",
       "engagement": {
-        "views": 5548,
+        "views": 5553,
         "likes": 120,
         "comments": 6
       }
@@ -3745,7 +3783,7 @@
         }
       },
       "statistics": {
-        "viewCount": "9718",
+        "viewCount": "9723",
         "likeCount": "171",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -3755,7 +3793,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=KxPGKqANkkE",
       "engagement": {
-        "views": 9718,
+        "views": 9723,
         "likes": 171,
         "comments": 21
       }
@@ -3783,7 +3821,7 @@
         }
       },
       "statistics": {
-        "viewCount": "33410",
+        "viewCount": "33433",
         "likeCount": "745",
         "favoriteCount": "0",
         "commentCount": "55"
@@ -3793,7 +3831,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=x4QFWcXZuxg",
       "engagement": {
-        "views": 33410,
+        "views": 33433,
         "likes": 745,
         "comments": 55
       }
@@ -3821,7 +3859,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5481",
+        "viewCount": "5482",
         "likeCount": "113",
         "favoriteCount": "0",
         "commentCount": "12"
@@ -3831,7 +3869,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=Lw-jJvsACnY",
       "engagement": {
-        "views": 5481,
+        "views": 5482,
         "likes": 113,
         "comments": 12
       }
@@ -3859,7 +3897,7 @@
         }
       },
       "statistics": {
-        "viewCount": "14640",
+        "viewCount": "14645",
         "likeCount": "295",
         "favoriteCount": "0",
         "commentCount": "21"
@@ -3869,7 +3907,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=qMGjh6rKIgw",
       "engagement": {
-        "views": 14640,
+        "views": 14645,
         "likes": 295,
         "comments": 21
       }
@@ -3897,7 +3935,7 @@
         }
       },
       "statistics": {
-        "viewCount": "16393",
+        "viewCount": "16409",
         "likeCount": "331",
         "favoriteCount": "0",
         "commentCount": "29"
@@ -3907,7 +3945,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=Y4V5t1dpbnA",
       "engagement": {
-        "views": 16393,
+        "views": 16409,
         "likes": 331,
         "comments": 29
       }
@@ -3935,19 +3973,19 @@
         }
       },
       "statistics": {
-        "viewCount": "73772",
-        "likeCount": "1335",
+        "viewCount": "73838",
+        "likeCount": "1336",
         "favoriteCount": "0",
-        "commentCount": "98"
+        "commentCount": "99"
       },
       "duration": "PT12M44S",
       "durationInSeconds": 764,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=YOlOLxrMUOw",
       "engagement": {
-        "views": 73772,
-        "likes": 1335,
-        "comments": 98
+        "views": 73838,
+        "likes": 1336,
+        "comments": 99
       }
     },
     {
@@ -3973,8 +4011,8 @@
         }
       },
       "statistics": {
-        "viewCount": "42414",
-        "likeCount": "1043",
+        "viewCount": "42432",
+        "likeCount": "1044",
         "favoriteCount": "0",
         "commentCount": "34"
       },
@@ -3983,8 +4021,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=t3B1BItaNZE",
       "engagement": {
-        "views": 42414,
-        "likes": 1043,
+        "views": 42432,
+        "likes": 1044,
         "comments": 34
       }
     },
@@ -4011,7 +4049,7 @@
         }
       },
       "statistics": {
-        "viewCount": "77595",
+        "viewCount": "77605",
         "likeCount": "2325",
         "favoriteCount": "0",
         "commentCount": "97"
@@ -4021,7 +4059,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=1pARcazj-Mc",
       "engagement": {
-        "views": 77595,
+        "views": 77605,
         "likes": 2325,
         "comments": 97
       }
@@ -4049,7 +4087,7 @@
         }
       },
       "statistics": {
-        "viewCount": "39627",
+        "viewCount": "39643",
         "likeCount": "1242",
         "favoriteCount": "0",
         "commentCount": "66"
@@ -4059,7 +4097,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=bKR3TobqyrU",
       "engagement": {
-        "views": 39627,
+        "views": 39643,
         "likes": 1242,
         "comments": 66
       }
@@ -4125,19 +4163,19 @@
         }
       },
       "statistics": {
-        "viewCount": "74578",
-        "likeCount": "1568",
+        "viewCount": "74632",
+        "likeCount": "1570",
         "favoriteCount": "0",
-        "commentCount": "242"
+        "commentCount": "243"
       },
       "duration": "PT5M48S",
       "durationInSeconds": 348,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=54WmrwVWu1w",
       "engagement": {
-        "views": 74578,
-        "likes": 1568,
-        "comments": 242
+        "views": 74632,
+        "likes": 1570,
+        "comments": 243
       }
     }
   ]
