@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T00:10:39.053Z",
-  "totalVideos": 25,
+  "lastUpdated": "2026-01-23T00:11:20.210Z",
+  "totalVideos": 75,
   "videos": [
     {
       "id": "3tlhWmNTXKs",
@@ -25,19 +25,19 @@
         }
       },
       "statistics": {
-        "viewCount": "125459",
-        "likeCount": "10073",
+        "viewCount": "126346",
+        "likeCount": "10117",
         "favoriteCount": "0",
-        "commentCount": "1226"
+        "commentCount": "1231"
       },
       "duration": "PT34M47S",
       "durationInSeconds": 2087,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=3tlhWmNTXKs",
       "engagement": {
-        "views": 125459,
-        "likes": 10073,
-        "comments": 1226
+        "views": 126346,
+        "likes": 10117,
+        "comments": 1231
       }
     },
     {
@@ -63,8 +63,8 @@
         }
       },
       "statistics": {
-        "viewCount": "34993",
-        "likeCount": "1482",
+        "viewCount": "35074",
+        "likeCount": "1487",
         "favoriteCount": "0",
         "commentCount": "53"
       },
@@ -73,8 +73,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=hFXFI_2RGJQ",
       "engagement": {
-        "views": 34993,
-        "likes": 1482,
+        "views": 35074,
+        "likes": 1487,
         "comments": 53
       }
     },
@@ -101,7 +101,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15381",
+        "viewCount": "15410",
         "likeCount": "1060",
         "favoriteCount": "0",
         "commentCount": "62"
@@ -111,7 +111,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=Drg-mBx_nNs",
       "engagement": {
-        "views": 15381,
+        "views": 15410,
         "likes": 1060,
         "comments": 62
       }
@@ -139,8 +139,8 @@
         }
       },
       "statistics": {
-        "viewCount": "25053",
-        "likeCount": "670",
+        "viewCount": "25111",
+        "likeCount": "671",
         "favoriteCount": "0",
         "commentCount": "27"
       },
@@ -149,8 +149,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=tMPTngM-odY",
       "engagement": {
-        "views": 25053,
-        "likes": 670,
+        "views": 25111,
+        "likes": 671,
         "comments": 27
       }
     },
@@ -177,8 +177,8 @@
         }
       },
       "statistics": {
-        "viewCount": "932267",
-        "likeCount": "1032",
+        "viewCount": "932278",
+        "likeCount": "1034",
         "favoriteCount": "0",
         "commentCount": "9"
       },
@@ -187,8 +187,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=spF3ws6GBY8",
       "engagement": {
-        "views": 932267,
-        "likes": 1032,
+        "views": 932278,
+        "likes": 1034,
         "comments": 9
       }
     },
@@ -215,8 +215,8 @@
         }
       },
       "statistics": {
-        "viewCount": "125009",
-        "likeCount": "7207",
+        "viewCount": "125240",
+        "likeCount": "7213",
         "favoriteCount": "0",
         "commentCount": "373"
       },
@@ -225,8 +225,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=v5JPwgLKb4Q",
       "engagement": {
-        "views": 125009,
-        "likes": 7207,
+        "views": 125240,
+        "likes": 7213,
         "comments": 373
       }
     },
@@ -253,19 +253,19 @@
         }
       },
       "statistics": {
-        "viewCount": "9960",
-        "likeCount": "341",
+        "viewCount": "9972",
+        "likeCount": "342",
         "favoriteCount": "0",
-        "commentCount": "80"
+        "commentCount": "79"
       },
       "duration": "PT1M24S",
       "durationInSeconds": 84,
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=6soA664vePw",
       "engagement": {
-        "views": 9960,
-        "likes": 341,
-        "comments": 80
+        "views": 9972,
+        "likes": 342,
+        "comments": 79
       }
     },
     {
@@ -291,19 +291,19 @@
         }
       },
       "statistics": {
-        "viewCount": "14822",
-        "likeCount": "480",
+        "viewCount": "14840",
+        "likeCount": "482",
         "favoriteCount": "0",
-        "commentCount": "37"
+        "commentCount": "36"
       },
       "duration": "PT55S",
       "durationInSeconds": 55,
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=7RHbLxPajaU",
       "engagement": {
-        "views": 14822,
-        "likes": 480,
-        "comments": 37
+        "views": 14840,
+        "likes": 482,
+        "comments": 36
       }
     },
     {
@@ -329,8 +329,8 @@
         }
       },
       "statistics": {
-        "viewCount": "12999",
-        "likeCount": "601",
+        "viewCount": "13010",
+        "likeCount": "602",
         "favoriteCount": "0",
         "commentCount": "162"
       },
@@ -339,8 +339,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=vV9tm7Fl0NE",
       "engagement": {
-        "views": 12999,
-        "likes": 601,
+        "views": 13010,
+        "likes": 602,
         "comments": 162
       }
     },
@@ -367,19 +367,19 @@
         }
       },
       "statistics": {
-        "viewCount": "15613",
-        "likeCount": "529",
+        "viewCount": "15619",
+        "likeCount": "530",
         "favoriteCount": "0",
-        "commentCount": "105"
+        "commentCount": "104"
       },
       "duration": "PT1M26S",
       "durationInSeconds": 86,
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=VrYaA77ctkE",
       "engagement": {
-        "views": 15613,
-        "likes": 529,
-        "comments": 105
+        "views": 15619,
+        "likes": 530,
+        "comments": 104
       }
     },
     {
@@ -405,19 +405,19 @@
         }
       },
       "statistics": {
-        "viewCount": "234566",
-        "likeCount": "8760",
+        "viewCount": "234610",
+        "likeCount": "8761",
         "favoriteCount": "0",
-        "commentCount": "935"
+        "commentCount": "936"
       },
       "duration": "PT18M3S",
       "durationInSeconds": 1083,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=4NiT46FeBvI",
       "engagement": {
-        "views": 234566,
-        "likes": 8760,
-        "comments": 935
+        "views": 234610,
+        "likes": 8761,
+        "comments": 936
       }
     },
     {
@@ -443,8 +443,8 @@
         }
       },
       "statistics": {
-        "viewCount": "7078",
-        "likeCount": "291",
+        "viewCount": "7082",
+        "likeCount": "292",
         "favoriteCount": "0",
         "commentCount": "30"
       },
@@ -453,8 +453,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=bF_4LtR5FQo",
       "engagement": {
-        "views": 7078,
-        "likes": 291,
+        "views": 7082,
+        "likes": 292,
         "comments": 30
       }
     },
@@ -481,8 +481,8 @@
         }
       },
       "statistics": {
-        "viewCount": "157679",
-        "likeCount": "9745",
+        "viewCount": "157849",
+        "likeCount": "9753",
         "favoriteCount": "0",
         "commentCount": "538"
       },
@@ -491,8 +491,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ICDsubz34jQ",
       "engagement": {
-        "views": 157679,
-        "likes": 9745,
+        "views": 157849,
+        "likes": 9753,
         "comments": 538
       }
     },
@@ -519,8 +519,8 @@
         }
       },
       "statistics": {
-        "viewCount": "50110",
-        "likeCount": "1715",
+        "viewCount": "50144",
+        "likeCount": "1717",
         "favoriteCount": "0",
         "commentCount": "110"
       },
@@ -529,8 +529,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=wUps61-OHbY",
       "engagement": {
-        "views": 50110,
-        "likes": 1715,
+        "views": 50144,
+        "likes": 1717,
         "comments": 110
       }
     },
@@ -557,8 +557,8 @@
         }
       },
       "statistics": {
-        "viewCount": "59788",
-        "likeCount": "2461",
+        "viewCount": "59884",
+        "likeCount": "2465",
         "favoriteCount": "0",
         "commentCount": "156"
       },
@@ -567,8 +567,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=oil1r1_ndXI",
       "engagement": {
-        "views": 59788,
-        "likes": 2461,
+        "views": 59884,
+        "likes": 2465,
         "comments": 156
       }
     },
@@ -595,8 +595,8 @@
         }
       },
       "statistics": {
-        "viewCount": "15214",
-        "likeCount": "309",
+        "viewCount": "15243",
+        "likeCount": "312",
         "favoriteCount": "0",
         "commentCount": "33"
       },
@@ -605,8 +605,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=BOnHXo2Dq1c",
       "engagement": {
-        "views": 15214,
-        "likes": 309,
+        "views": 15243,
+        "likes": 312,
         "comments": 33
       }
     },
@@ -633,8 +633,8 @@
         }
       },
       "statistics": {
-        "viewCount": "15358",
-        "likeCount": "783",
+        "viewCount": "15367",
+        "likeCount": "785",
         "favoriteCount": "0",
         "commentCount": "35"
       },
@@ -643,8 +643,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=PsptA5wfv8o",
       "engagement": {
-        "views": 15358,
-        "likes": 783,
+        "views": 15367,
+        "likes": 785,
         "comments": 35
       }
     },
@@ -671,8 +671,8 @@
         }
       },
       "statistics": {
-        "viewCount": "10190",
-        "likeCount": "282",
+        "viewCount": "10201",
+        "likeCount": "283",
         "favoriteCount": "0",
         "commentCount": "20"
       },
@@ -681,8 +681,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=O3sJWzVgHvY",
       "engagement": {
-        "views": 10190,
-        "likes": 282,
+        "views": 10201,
+        "likes": 283,
         "comments": 20
       }
     },
@@ -709,8 +709,8 @@
         }
       },
       "statistics": {
-        "viewCount": "17623",
-        "likeCount": "320",
+        "viewCount": "17627",
+        "likeCount": "321",
         "favoriteCount": "0",
         "commentCount": "17"
       },
@@ -719,8 +719,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=-4W5gcw3tWU",
       "engagement": {
-        "views": 17623,
-        "likes": 320,
+        "views": 17627,
+        "likes": 321,
         "comments": 17
       }
     },
@@ -747,7 +747,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10310",
+        "viewCount": "10316",
         "favoriteCount": "0",
         "commentCount": "26"
       },
@@ -756,7 +756,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=87gY9T9bDfg",
       "engagement": {
-        "views": 10310,
+        "views": 10316,
         "likes": 0,
         "comments": 26
       }
@@ -784,19 +784,19 @@
         }
       },
       "statistics": {
-        "viewCount": "214933",
-        "likeCount": "7565",
+        "viewCount": "215197",
+        "likeCount": "7576",
         "favoriteCount": "0",
-        "commentCount": "663"
+        "commentCount": "664"
       },
       "duration": "PT25M33S",
       "durationInSeconds": 1533,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=kjJHBi_iWlc",
       "engagement": {
-        "views": 214933,
-        "likes": 7565,
-        "comments": 663
+        "views": 215197,
+        "likes": 7576,
+        "comments": 664
       }
     },
     {
@@ -822,8 +822,8 @@
         }
       },
       "statistics": {
-        "viewCount": "98159",
-        "likeCount": "6812",
+        "viewCount": "98186",
+        "likeCount": "6813",
         "favoriteCount": "0",
         "commentCount": "1386"
       },
@@ -832,8 +832,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=7RiLM-eDuIw",
       "engagement": {
-        "views": 98159,
-        "likes": 6812,
+        "views": 98186,
+        "likes": 6813,
         "comments": 1386
       }
     },
@@ -860,7 +860,7 @@
         }
       },
       "statistics": {
-        "viewCount": "138209",
+        "viewCount": "138397",
         "likeCount": "4564",
         "favoriteCount": "0",
         "commentCount": "220"
@@ -870,7 +870,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=q0djStbKers",
       "engagement": {
-        "views": 138209,
+        "views": 138397,
         "likes": 4564,
         "comments": 220
       }
@@ -898,7 +898,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5407",
+        "viewCount": "5408",
         "likeCount": "376",
         "favoriteCount": "0",
         "commentCount": "51"
@@ -908,7 +908,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=YskMmcjXCY4",
       "engagement": {
-        "views": 5407,
+        "views": 5408,
         "likes": 376,
         "comments": 51
       }
@@ -936,7 +936,7 @@
         }
       },
       "statistics": {
-        "viewCount": "6349",
+        "viewCount": "6356",
         "likeCount": "417",
         "favoriteCount": "0",
         "commentCount": "24"
@@ -946,9 +946,1897 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=GpD9LdfCqgc",
       "engagement": {
-        "views": 6349,
+        "views": 6356,
         "likes": 417,
         "comments": 24
+      }
+    },
+    {
+      "id": "kNrm7isSP-I",
+      "title": "Regardez-le retourner sa veste, celui-là !",
+      "description": "",
+      "publishedAt": "2025-03-04T20:01:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kNrm7isSP-I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kNrm7isSP-I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kNrm7isSP-I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "5851",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "duration": "PT1M1S",
+      "durationInSeconds": 61,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=kNrm7isSP-I",
+      "engagement": {
+        "views": 5851,
+        "likes": 0,
+        "comments": 11
+      }
+    },
+    {
+      "id": "RGavlCeC6I4",
+      "title": "Comment l’IA est-elle financée ? #IA",
+      "description": "13 milliards d'euros, c'est le montant levé par les startups d'IA en France en 2024 ! Mais comment le développement de l'IA est-il ...",
+      "publishedAt": "2025-02-14T17:05:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RGavlCeC6I4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RGavlCeC6I4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RGavlCeC6I4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "26366",
+        "likeCount": "265",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "duration": "PT2M25S",
+      "durationInSeconds": 145,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=RGavlCeC6I4",
+      "engagement": {
+        "views": 26366,
+        "likes": 265,
+        "comments": 6
+      }
+    },
+    {
+      "id": "gcugwdblfv8",
+      "title": "Il a gagné 61 000$ avec un tableur Excel à Las Vegas.",
+      "description": "",
+      "publishedAt": "2025-02-07T10:40:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gcugwdblfv8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gcugwdblfv8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gcugwdblfv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "11451",
+        "likeCount": "1257",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "duration": "PT1M4S",
+      "durationInSeconds": 64,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=gcugwdblfv8",
+      "engagement": {
+        "views": 11451,
+        "likes": 1257,
+        "comments": 8
+      }
+    },
+    {
+      "id": "UlcW1rg38sw",
+      "title": "Deepsearch ! 🚀 t’as essayé ? Tu en penses quoi ?",
+      "description": "",
+      "publishedAt": "2025-02-05T08:14:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UlcW1rg38sw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UlcW1rg38sw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UlcW1rg38sw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "12020",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "duration": "PT1M27S",
+      "durationInSeconds": 87,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=UlcW1rg38sw",
+      "engagement": {
+        "views": 12020,
+        "likes": 0,
+        "comments": 14
+      }
+    },
+    {
+      "id": "N1wtMZBJtGQ",
+      "title": "Deepseek, l’IA chinoise déjà victime d’une fuite de donnés ?",
+      "description": "",
+      "publishedAt": "2025-01-31T19:08:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N1wtMZBJtGQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N1wtMZBJtGQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N1wtMZBJtGQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "15870",
+        "favoriteCount": "0",
+        "commentCount": "53"
+      },
+      "duration": "PT1M21S",
+      "durationInSeconds": 81,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=N1wtMZBJtGQ",
+      "engagement": {
+        "views": 15870,
+        "likes": 0,
+        "comments": 53
+      }
+    },
+    {
+      "id": "WhdFV0qDrrc",
+      "title": "Ton iPhone peut se faire pirater avec ça ?",
+      "description": "",
+      "publishedAt": "2025-01-27T10:58:28Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WhdFV0qDrrc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WhdFV0qDrrc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WhdFV0qDrrc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "17139",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "duration": "PT1M2S",
+      "durationInSeconds": 62,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=WhdFV0qDrrc",
+      "engagement": {
+        "views": 17139,
+        "likes": 0,
+        "comments": 14
+      }
+    },
+    {
+      "id": "KAbr9sFdXuU",
+      "title": "Je peux nourrir mon chien automatiquement?J’ai testé avec le EliteBook Ultra GQ1 de @HP  @snapdragon",
+      "description": "",
+      "publishedAt": "2025-01-24T15:55:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KAbr9sFdXuU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KAbr9sFdXuU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KAbr9sFdXuU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "6746",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      },
+      "duration": "PT3M",
+      "durationInSeconds": 180,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=KAbr9sFdXuU",
+      "engagement": {
+        "views": 6746,
+        "likes": 0,
+        "comments": 16
+      }
+    },
+    {
+      "id": "ZfDzezgMlu4",
+      "title": "C’est le Game of Thrones de l’IA en ce moment aux USA. Démonstration avec le projet Stargate.",
+      "description": "",
+      "publishedAt": "2025-01-23T15:36:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZfDzezgMlu4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZfDzezgMlu4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZfDzezgMlu4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "9033",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "duration": "PT1M20S",
+      "durationInSeconds": 80,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=ZfDzezgMlu4",
+      "engagement": {
+        "views": 9033,
+        "likes": 0,
+        "comments": 10
+      }
+    },
+    {
+      "id": "rFuJgy58HPo",
+      "title": "Pour innover, n’écoutez jamais les gens qui vous disent ça.",
+      "description": "",
+      "publishedAt": "2025-01-08T20:00:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rFuJgy58HPo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rFuJgy58HPo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rFuJgy58HPo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "3613",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "duration": "PT1M10S",
+      "durationInSeconds": 70,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=rFuJgy58HPo",
+      "engagement": {
+        "views": 3613,
+        "likes": 0,
+        "comments": 6
+      }
+    },
+    {
+      "id": "862FqvaYW0w",
+      "title": "La vidéo la plus triste que vous verrez aujourd’hui ? #ces2025",
+      "description": "",
+      "publishedAt": "2025-01-06T16:16:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/862FqvaYW0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/862FqvaYW0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/862FqvaYW0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "5499",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "duration": "PT1M19S",
+      "durationInSeconds": 79,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=862FqvaYW0w",
+      "engagement": {
+        "views": 5499,
+        "likes": 0,
+        "comments": 18
+      }
+    },
+    {
+      "id": "_jLtgP5jZx4",
+      "title": "Et si l’IA avait existé dans Jurassic Park ? Ça aurait fait un très très court métrage",
+      "description": "",
+      "publishedAt": "2025-01-03T07:44:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_jLtgP5jZx4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_jLtgP5jZx4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_jLtgP5jZx4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "16420",
+        "likeCount": "1104",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "duration": "PT28S",
+      "durationInSeconds": 28,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=_jLtgP5jZx4",
+      "engagement": {
+        "views": 16420,
+        "likes": 1104,
+        "comments": 14
+      }
+    },
+    {
+      "id": "BDbpGzgKxX8",
+      "title": "Vous êtes d’accord ou pas ?",
+      "description": "",
+      "publishedAt": "2024-12-26T09:55:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BDbpGzgKxX8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BDbpGzgKxX8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BDbpGzgKxX8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "12774",
+        "likeCount": "719",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "duration": "PT22S",
+      "durationInSeconds": 22,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=BDbpGzgKxX8",
+      "engagement": {
+        "views": 12774,
+        "likes": 719,
+        "comments": 13
+      }
+    },
+    {
+      "id": "sRFM03NWzYg",
+      "title": "Il est temps de vous révéler le secret de 90% de YouTube. 🤓🤓",
+      "description": "",
+      "publishedAt": "2024-12-24T09:30:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sRFM03NWzYg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sRFM03NWzYg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sRFM03NWzYg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "9746",
+        "likeCount": "358",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "duration": "PT25S",
+      "durationInSeconds": 25,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=sRFM03NWzYg",
+      "engagement": {
+        "views": 9746,
+        "likes": 358,
+        "comments": 10
+      }
+    },
+    {
+      "id": "ZZESk-wA7kM",
+      "title": "Sur twitch j’ai fait un call en direct avec le Général de Gaulle. Rien n’est scripté.",
+      "description": "",
+      "publishedAt": "2024-12-23T08:42:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZZESk-wA7kM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZZESk-wA7kM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZZESk-wA7kM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "4584",
+        "likeCount": "183",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      },
+      "duration": "PT2M39S",
+      "durationInSeconds": 159,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=ZZESk-wA7kM",
+      "engagement": {
+        "views": 4584,
+        "likes": 183,
+        "comments": 20
+      }
+    },
+    {
+      "id": "deNb4BrmXPk",
+      "title": "Je suis allé à la journée startup de AWS ! #AWSGenAIDay #AWSGenAILoft",
+      "description": "",
+      "publishedAt": "2024-12-18T08:49:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/deNb4BrmXPk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/deNb4BrmXPk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/deNb4BrmXPk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "2919",
+        "likeCount": "116",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "duration": "PT1M6S",
+      "durationInSeconds": 66,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=deNb4BrmXPk",
+      "engagement": {
+        "views": 2919,
+        "likes": 116,
+        "comments": 4
+      }
+    },
+    {
+      "id": "J-93IHyGWAQ",
+      "title": "J’ai codé un drone qui peut chasser des humains.",
+      "description": "Peut-on, avec des solutions d'IA et des drones accessibles à tous, concevoir un système capable de détecter un humain, ...",
+      "publishedAt": "2024-11-24T09:00:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J-93IHyGWAQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J-93IHyGWAQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J-93IHyGWAQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "60556",
+        "likeCount": "6070",
+        "favoriteCount": "0",
+        "commentCount": "456"
+      },
+      "duration": "PT25M54S",
+      "durationInSeconds": 1554,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=J-93IHyGWAQ",
+      "engagement": {
+        "views": 60556,
+        "likes": 6070,
+        "comments": 456
+      }
+    },
+    {
+      "id": "9VXq2RidOFc",
+      "title": "Bon … ben.. ok.. c’est vrai que l’IA ca va plus vite comme ça aussi…",
+      "description": "",
+      "publishedAt": "2024-11-22T10:17:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9VXq2RidOFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9VXq2RidOFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9VXq2RidOFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "9097",
+        "likeCount": "459",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "duration": "PT12S",
+      "durationInSeconds": 12,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=9VXq2RidOFc",
+      "engagement": {
+        "views": 9097,
+        "likes": 459,
+        "comments": 14
+      }
+    },
+    {
+      "id": "CI4SAWi8AfY",
+      "title": "L’IA peut nous arnaquer mais on peut aussi arnaquer des arnaqueurs 🤓…",
+      "description": "",
+      "publishedAt": "2024-10-16T11:05:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CI4SAWi8AfY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CI4SAWi8AfY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CI4SAWi8AfY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "14405",
+        "likeCount": "522",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "duration": "PT1M1S",
+      "durationInSeconds": 61,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=CI4SAWi8AfY",
+      "engagement": {
+        "views": 14405,
+        "likes": 522,
+        "comments": 18
+      }
+    },
+    {
+      "id": "Oo4XriNppmw",
+      "title": "C’est quoi ça ? ChatGPT vient de marseille ?",
+      "description": "",
+      "publishedAt": "2024-10-03T10:30:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Oo4XriNppmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Oo4XriNppmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Oo4XriNppmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "41210",
+        "favoriteCount": "0",
+        "commentCount": "38"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=Oo4XriNppmw",
+      "engagement": {
+        "views": 41210,
+        "likes": 0,
+        "comments": 38
+      }
+    },
+    {
+      "id": "jA7AGV9vOEg",
+      "title": "La fausse bonne idée ? Les plateformes se retrouvent impuissantes face à la vague d’IA générative.",
+      "description": "",
+      "publishedAt": "2024-09-23T07:36:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jA7AGV9vOEg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jA7AGV9vOEg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jA7AGV9vOEg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "87777",
+        "likeCount": "1954",
+        "favoriteCount": "0",
+        "commentCount": "79"
+      },
+      "duration": "PT42S",
+      "durationInSeconds": 42,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=jA7AGV9vOEg",
+      "engagement": {
+        "views": 87777,
+        "likes": 1954,
+        "comments": 79
+      }
+    },
+    {
+      "id": "BaMHFtLfmWE",
+      "title": "Geoffrey La Rocca, CEO de DC Company (konbini, le gorafi etc..) répond à mes questions !",
+      "description": "Les créateurs de contenus sont ils de nouveaux médias ?",
+      "publishedAt": "2024-09-20T14:00:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BaMHFtLfmWE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BaMHFtLfmWE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BaMHFtLfmWE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "3027",
+        "likeCount": "38",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=BaMHFtLfmWE",
+      "engagement": {
+        "views": 3027,
+        "likes": 38,
+        "comments": 1
+      }
+    },
+    {
+      "id": "U8IvNfnMwfM",
+      "title": "Voilà le monde qui nous attend. #intelligenceartificielle #deepfake",
+      "description": "J'étais sur le plateau de @franceinfo hier pour parler de l'impact de l'IA sur les prochaines élections américaines. Je ne dévie pas ...",
+      "publishedAt": "2024-09-19T15:46:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U8IvNfnMwfM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U8IvNfnMwfM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U8IvNfnMwfM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "10343",
+        "likeCount": "474",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=U8IvNfnMwfM",
+      "engagement": {
+        "views": 10343,
+        "likes": 474,
+        "comments": 23
+      }
+    },
+    {
+      "id": "FsSdKPUdxQc",
+      "title": "Tu connais Cisco ? Mon hotel s’est fait hacké et j’ai du résoudre la situation 😵…",
+      "description": "",
+      "publishedAt": "2024-08-12T14:30:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FsSdKPUdxQc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FsSdKPUdxQc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FsSdKPUdxQc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "45361",
+        "likeCount": "531",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=FsSdKPUdxQc",
+      "engagement": {
+        "views": 45361,
+        "likes": 531,
+        "comments": 20
+      }
+    },
+    {
+      "id": "4lkWl6NL2wg",
+      "title": "J&#39;ai codé une IA qui a soumis 14 252 mecs, voici ce que j&#39;ai appris.",
+      "description": "J'ai codé un système d'IA capable de discuter avec des milliers de personnes par jour. Dans cette vidéo je vous expliques les ...",
+      "publishedAt": "2024-07-28T10:25:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4lkWl6NL2wg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4lkWl6NL2wg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4lkWl6NL2wg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "288743",
+        "likeCount": "19158",
+        "favoriteCount": "0",
+        "commentCount": "1543"
+      },
+      "duration": "PT29M13S",
+      "durationInSeconds": 1753,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=4lkWl6NL2wg",
+      "engagement": {
+        "views": 288743,
+        "likes": 19158,
+        "comments": 1543
+      }
+    },
+    {
+      "id": "MpITCPCxEaA",
+      "title": "La révolution de la génération 3D par IA est en marche ! 🤯  Tu trouves ca utile ?",
+      "description": "",
+      "publishedAt": "2024-07-13T11:37:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MpITCPCxEaA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MpITCPCxEaA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MpITCPCxEaA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "22346",
+        "favoriteCount": "0",
+        "commentCount": "28"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=MpITCPCxEaA",
+      "engagement": {
+        "views": 22346,
+        "likes": 0,
+        "comments": 28
+      }
+    },
+    {
+      "id": "qX_sZ3Mz_J4",
+      "title": "Vous pourriez avoir un robot en collègue de travail ? Dis moi en commentaire 😊⬇️ #ia #robot #news",
+      "description": "",
+      "publishedAt": "2024-07-08T09:28:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qX_sZ3Mz_J4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qX_sZ3Mz_J4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qX_sZ3Mz_J4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "14247",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=qX_sZ3Mz_J4",
+      "engagement": {
+        "views": 14247,
+        "likes": 0,
+        "comments": 10
+      }
+    },
+    {
+      "id": "o3HEu6X75vQ",
+      "title": "Évidemment le robot ne ressent rien mais vous alors ? Vous avez de la peine ou ça vous fait rire ?",
+      "description": "",
+      "publishedAt": "2024-07-06T12:16:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o3HEu6X75vQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o3HEu6X75vQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o3HEu6X75vQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "13836",
+        "favoriteCount": "0",
+        "commentCount": "38"
+      },
+      "duration": "PT41S",
+      "durationInSeconds": 41,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=o3HEu6X75vQ",
+      "engagement": {
+        "views": 13836,
+        "likes": 0,
+        "comments": 38
+      }
+    },
+    {
+      "id": "nlvX6pe4QNg",
+      "title": "Ca te plairait d’avoir du contenu publicitaire ultra personnalisé ? #IA #tech #science #sora",
+      "description": "",
+      "publishedAt": "2024-07-03T11:27:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nlvX6pe4QNg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nlvX6pe4QNg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nlvX6pe4QNg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "7598",
+        "likeCount": "307",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "duration": "PT59S",
+      "durationInSeconds": 59,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=nlvX6pe4QNg",
+      "engagement": {
+        "views": 7598,
+        "likes": 307,
+        "comments": 11
+      }
+    },
+    {
+      "id": "_Tw6XwO9oIs",
+      "title": "Vous utilisez Claude ? C’est la nouvelle IA qui surpasse chatGPT ! Vous en pensez quoi ?",
+      "description": "",
+      "publishedAt": "2024-07-01T16:22:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_Tw6XwO9oIs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_Tw6XwO9oIs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_Tw6XwO9oIs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "25198",
+        "likeCount": "1292",
+        "favoriteCount": "0",
+        "commentCount": "26"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=_Tw6XwO9oIs",
+      "engagement": {
+        "views": 25198,
+        "likes": 1292,
+        "comments": 26
+      }
+    },
+    {
+      "id": "s7MkiP2O4qA",
+      "title": "Tu serais ok pour manger un robot avec une IA autonome pour ta santé ? 🥹🤨 #IA #news #tech #robot",
+      "description": "",
+      "publishedAt": "2024-06-29T15:36:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s7MkiP2O4qA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s7MkiP2O4qA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s7MkiP2O4qA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "15399",
+        "likeCount": "643",
+        "favoriteCount": "0",
+        "commentCount": "32"
+      },
+      "duration": "PT57S",
+      "durationInSeconds": 57,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=s7MkiP2O4qA",
+      "engagement": {
+        "views": 15399,
+        "likes": 643,
+        "comments": 32
+      }
+    },
+    {
+      "id": "ZwgErcdsPxE",
+      "title": "Les problèmes d&#39;IA d&#39;Apple sont pires que vous ne le pensez",
+      "description": "Apple Intelligence est la nouvelle fonctionnalité d'Intelligence Artificielle de Apple. On fait le tour des nouvelles fonctionnalité et on ...",
+      "publishedAt": "2024-06-12T06:00:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZwgErcdsPxE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZwgErcdsPxE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZwgErcdsPxE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "34831",
+        "likeCount": "2523",
+        "favoriteCount": "0",
+        "commentCount": "144"
+      },
+      "duration": "PT10M36S",
+      "durationInSeconds": 636,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=ZwgErcdsPxE",
+      "engagement": {
+        "views": 34831,
+        "likes": 2523,
+        "comments": 144
+      }
+    },
+    {
+      "id": "ne0ehUEZeVE",
+      "title": "Un modèle d’IA chinois ! Vous en pensez quoi de ces modèles d’IA vidéo ? Risque ou opportunité ?",
+      "description": "",
+      "publishedAt": "2024-06-07T19:49:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ne0ehUEZeVE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ne0ehUEZeVE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ne0ehUEZeVE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "11140",
+        "likeCount": "446",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "duration": "PT52S",
+      "durationInSeconds": 52,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=ne0ehUEZeVE",
+      "engagement": {
+        "views": 11140,
+        "likes": 446,
+        "comments": 13
+      }
+    },
+    {
+      "id": "N3wsX7NGm1s",
+      "title": "Vous pensez qu’une IA comme aide dans un JV ça gâcherai le plaisir? Nvidia et le projet G-Assist",
+      "description": "",
+      "publishedAt": "2024-06-05T11:22:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N3wsX7NGm1s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N3wsX7NGm1s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N3wsX7NGm1s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "12132",
+        "likeCount": "439",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "duration": "PT57S",
+      "durationInSeconds": 57,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=N3wsX7NGm1s",
+      "engagement": {
+        "views": 12132,
+        "likes": 439,
+        "comments": 13
+      }
+    },
+    {
+      "id": "7KbkCIEl03I",
+      "title": "Vous en pensez quoi de l’IA dans l’armée ? Expliquez moi votre choix en commentaire svp 😊",
+      "description": "L'armée chinoise s'entraine avec un nouveau robot !",
+      "publishedAt": "2024-06-01T09:42:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7KbkCIEl03I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7KbkCIEl03I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7KbkCIEl03I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "15836",
+        "likeCount": "572",
+        "favoriteCount": "0",
+        "commentCount": "26"
+      },
+      "duration": "PT52S",
+      "durationInSeconds": 52,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=7KbkCIEl03I",
+      "engagement": {
+        "views": 15836,
+        "likes": 572,
+        "comments": 26
+      }
+    },
+    {
+      "id": "MGQJng4vg7E",
+      "title": "Ben alors ces gadgets d’IA sont nuls ? Pour vous c’est inutile ou pas d’ailleurs ? L’Humane AI pin.",
+      "description": "L'humane AI Pin c'est fini !",
+      "publishedAt": "2024-05-29T15:41:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MGQJng4vg7E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MGQJng4vg7E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MGQJng4vg7E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "19866",
+        "likeCount": "590",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "duration": "PT58S",
+      "durationInSeconds": 58,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=MGQJng4vg7E",
+      "engagement": {
+        "views": 19866,
+        "likes": 590,
+        "comments": 6
+      }
+    },
+    {
+      "id": "Aoeq__Rahxo",
+      "title": "L’IA de Google pète les plombs ! 😲😲 Et vous êtes pour ou contre cette évolution de Google ?",
+      "description": "AI Overviews de Google ca marche pas du tout !",
+      "publishedAt": "2024-05-28T20:42:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Aoeq__Rahxo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Aoeq__Rahxo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Aoeq__Rahxo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "9135",
+        "likeCount": "330",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      },
+      "duration": "PT58S",
+      "durationInSeconds": 58,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=Aoeq__Rahxo",
+      "engagement": {
+        "views": 9135,
+        "likes": 330,
+        "comments": 15
+      }
+    },
+    {
+      "id": "GNqJ3HzxNxI",
+      "title": "Les voix françaises sonnent l’alarme sur l’impactt de l’IA sur leurs métiers ! Vous en pensez quoi ?",
+      "description": "Et c'est que le début de l'utilisaiton des voix par IA...",
+      "publishedAt": "2024-05-23T17:05:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GNqJ3HzxNxI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GNqJ3HzxNxI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GNqJ3HzxNxI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "5896",
+        "likeCount": "312",
+        "favoriteCount": "0",
+        "commentCount": "35"
+      },
+      "duration": "PT51S",
+      "durationInSeconds": 51,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=GNqJ3HzxNxI",
+      "engagement": {
+        "views": 5896,
+        "likes": 312,
+        "comments": 35
+      }
+    },
+    {
+      "id": "h7Gv6DTdDHY",
+      "title": "Est ce que la voix de Scarlett Johansson ressemble vraiment à l’IA d’après vous ? 🤔🤔🤔",
+      "description": "",
+      "publishedAt": "2024-05-22T10:16:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h7Gv6DTdDHY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h7Gv6DTdDHY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h7Gv6DTdDHY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "7098",
+        "likeCount": "266",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "duration": "PT59S",
+      "durationInSeconds": 59,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=h7Gv6DTdDHY",
+      "engagement": {
+        "views": 7098,
+        "likes": 266,
+        "comments": 6
+      }
+    },
+    {
+      "id": "WWQayp09bUE",
+      "title": "Sony Music menace les entreprises d’IA ! 😱 vous pensez que c’est justifié ?",
+      "description": "",
+      "publishedAt": "2024-05-20T07:29:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WWQayp09bUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WWQayp09bUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WWQayp09bUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "8926",
+        "likeCount": "382",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=WWQayp09bUE",
+      "engagement": {
+        "views": 8926,
+        "likes": 382,
+        "comments": 21
+      }
+    },
+    {
+      "id": "qXtvKxSRw7U",
+      "title": "Est ce que vous avez de la peine pour ces robots ? #IA",
+      "description": "",
+      "publishedAt": "2024-05-17T17:53:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qXtvKxSRw7U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qXtvKxSRw7U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qXtvKxSRw7U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "18121",
+        "likeCount": "758",
+        "favoriteCount": "0",
+        "commentCount": "36"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=qXtvKxSRw7U",
+      "engagement": {
+        "views": 18121,
+        "likes": 758,
+        "comments": 36
+      }
+    },
+    {
+      "id": "wTGa8y9GZvQ",
+      "title": "GPT4-o ! Une IA comme nouvelle petite amie ? La nouvelle mise à jour de #chatGPT #GPT4o  #OpenAI",
+      "description": "",
+      "publishedAt": "2024-05-14T14:28:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wTGa8y9GZvQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wTGa8y9GZvQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wTGa8y9GZvQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "14815",
+        "likeCount": "672",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "duration": "PT1M",
+      "durationInSeconds": 60,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=wTGa8y9GZvQ",
+      "engagement": {
+        "views": 14815,
+        "likes": 672,
+        "comments": 18
+      }
+    },
+    {
+      "id": "b4jfayGPKP4",
+      "title": "Des humains qui donnent des cours à des robots pour en faire des clones ? 🤖 #IA #robot #tesla #tech",
+      "description": "Les robots apprennent avec de nouvelles méthodes !",
+      "publishedAt": "2024-05-10T07:49:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b4jfayGPKP4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b4jfayGPKP4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b4jfayGPKP4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "10102",
+        "likeCount": "523",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "duration": "PT48S",
+      "durationInSeconds": 48,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=b4jfayGPKP4",
+      "engagement": {
+        "views": 10102,
+        "likes": 523,
+        "comments": 21
+      }
+    },
+    {
+      "id": "RsVQrWcrM-o",
+      "title": "TikTok dépose plainte contre le gouvernement des USA ! 🇺🇸 🇨🇳 Vous arriveriez à vivre sans ? 😳🤡",
+      "description": "TikTok dépose plainte contre le gouvernement des USA !",
+      "publishedAt": "2024-05-08T18:12:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RsVQrWcrM-o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RsVQrWcrM-o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RsVQrWcrM-o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "6360",
+        "likeCount": "398",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      },
+      "duration": "PT49S",
+      "durationInSeconds": 49,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=RsVQrWcrM-o",
+      "engagement": {
+        "views": 6360,
+        "likes": 398,
+        "comments": 27
+      }
+    },
+    {
+      "id": "RNhcNKFRXcA",
+      "title": "Comment les criminels se servent de l&#39;IA pour vous voler",
+      "description": "Ça fait des années qu'on entend parler des deepfakes et des risques de l'IA générative. En ce début d'année et avec ...",
+      "publishedAt": "2024-04-07T15:53:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RNhcNKFRXcA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RNhcNKFRXcA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RNhcNKFRXcA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "36863",
+        "likeCount": "2881",
+        "favoriteCount": "0",
+        "commentCount": "195"
+      },
+      "duration": "PT16M3S",
+      "durationInSeconds": 963,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=RNhcNKFRXcA",
+      "engagement": {
+        "views": 36863,
+        "likes": 2881,
+        "comments": 195
+      }
+    },
+    {
+      "id": "iH7oqFxHe6A",
+      "title": "Ce qui se cache vraiment derrière l’IA vidéo de OpenAI Sora.",
+      "description": "OpenAI Sora est un nouveau modèle de génération de vidéos par IA. Mais il n'est pas seul. D'où viennent les IA vidéos ?",
+      "publishedAt": "2024-02-18T17:08:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iH7oqFxHe6A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iH7oqFxHe6A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iH7oqFxHe6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "112999",
+        "likeCount": "3834",
+        "favoriteCount": "0",
+        "commentCount": "234"
+      },
+      "duration": "PT21M31S",
+      "durationInSeconds": 1291,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=iH7oqFxHe6A",
+      "engagement": {
+        "views": 112999,
+        "likes": 3834,
+        "comments": 234
+      }
+    },
+    {
+      "id": "HPKToUvKRkU",
+      "title": "J&#39;ai triché à un tournoi de poker professionnel avec l’IA, ça a mal tourné...",
+      "description": "Mon lien NordVPN : https://nordvpn.com/defendintelligence Les bots de poker, tout une histoire ! L'IA et notamment ChatGPT a eu ...",
+      "publishedAt": "2024-01-07T10:48:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HPKToUvKRkU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HPKToUvKRkU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HPKToUvKRkU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "261547",
+        "likeCount": "9069",
+        "favoriteCount": "0",
+        "commentCount": "446"
+      },
+      "duration": "PT29M19S",
+      "durationInSeconds": 1759,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=HPKToUvKRkU",
+      "engagement": {
+        "views": 261547,
+        "likes": 9069,
+        "comments": 446
+      }
+    },
+    {
+      "id": "h4CbouOCk30",
+      "title": "La plus grande découverte scientifique grâce à l’IA.",
+      "description": "Je suis tellement content de cette vidéo car on sort enfin du ChatGPT partout et on redescend dans de la science pure et dure ...",
+      "publishedAt": "2023-12-01T17:31:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h4CbouOCk30/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h4CbouOCk30/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h4CbouOCk30/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "241763",
+        "likeCount": "6675",
+        "favoriteCount": "0",
+        "commentCount": "287"
+      },
+      "duration": "PT10M3S",
+      "durationInSeconds": 603,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=h4CbouOCk30",
+      "engagement": {
+        "views": 241763,
+        "likes": 6675,
+        "comments": 287
+      }
+    },
+    {
+      "id": "fNREoy1NvQ0",
+      "title": "Comment utiliser l&#39;IA pour copier la voix et le visage de quelqu&#39;un ?",
+      "description": "On connait les deepfakes, mais la méthode que je vous présente passe une nouvelle étape aussi bien dans sa simplicité que ...",
+      "publishedAt": "2023-08-06T10:04:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fNREoy1NvQ0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fNREoy1NvQ0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fNREoy1NvQ0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "200362",
+        "likeCount": "16512",
+        "favoriteCount": "0",
+        "commentCount": "680"
+      },
+      "duration": "PT18M3S",
+      "durationInSeconds": 1083,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=fNREoy1NvQ0",
+      "engagement": {
+        "views": 200362,
+        "likes": 16512,
+        "comments": 680
+      }
+    },
+    {
+      "id": "_4ICxLCJczI",
+      "title": "Le grave problème de ChatGPT.",
+      "description": "100 000 comptes chatgpt ont fuités avec des mots de passe et login. Je vous explique comment et surtout pourquoi vous devriez ...",
+      "publishedAt": "2023-06-25T11:05:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_4ICxLCJczI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_4ICxLCJczI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_4ICxLCJczI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "32466",
+        "likeCount": "1655",
+        "favoriteCount": "0",
+        "commentCount": "82"
+      },
+      "duration": "PT12M15S",
+      "durationInSeconds": 735,
+      "isShort": false,
+      "url": "https://www.youtube.com/watch?v=_4ICxLCJczI",
+      "engagement": {
+        "views": 32466,
+        "likes": 1655,
+        "comments": 82
+      }
+    },
+    {
+      "id": "yeGgyzbBB4M",
+      "title": "L’IA permet maintenant de générer de la musique avec juste un texte !",
+      "description": "",
+      "publishedAt": "2023-06-10T09:37:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yeGgyzbBB4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yeGgyzbBB4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yeGgyzbBB4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "statistics": {
+        "viewCount": "14287",
+        "likeCount": "610",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      },
+      "duration": "PT59S",
+      "durationInSeconds": 59,
+      "isShort": true,
+      "url": "https://www.youtube.com/watch?v=yeGgyzbBB4M",
+      "engagement": {
+        "views": 14287,
+        "likes": 610,
+        "comments": 27
       }
     }
   ]
