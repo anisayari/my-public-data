@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-17T00:14:50.572Z",
-  "totalVideos": 144,
+  "lastUpdated": "2026-02-19T00:14:41.218Z",
+  "totalVideos": 75,
   "videos": [
     {
       "id": "93VGAjKEFro",
@@ -25,19 +25,19 @@
         }
       },
       "statistics": {
-        "viewCount": "12118",
-        "likeCount": "482",
+        "viewCount": "12508",
+        "likeCount": "502",
         "favoriteCount": "0",
-        "commentCount": "41"
+        "commentCount": "42"
       },
       "duration": "PT2M39S",
       "durationInSeconds": 159,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=93VGAjKEFro",
       "engagement": {
-        "views": 12118,
-        "likes": 482,
-        "comments": 41
+        "views": 12508,
+        "likes": 502,
+        "comments": 42
       }
     },
     {
@@ -63,19 +63,19 @@
         }
       },
       "statistics": {
-        "viewCount": "144319",
-        "likeCount": "10887",
+        "viewCount": "145354",
+        "likeCount": "10926",
         "favoriteCount": "0",
-        "commentCount": "1301"
+        "commentCount": "1307"
       },
       "duration": "PT34M47S",
       "durationInSeconds": 2087,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=3tlhWmNTXKs",
       "engagement": {
-        "views": 144319,
-        "likes": 10887,
-        "comments": 1301
+        "views": 145354,
+        "likes": 10926,
+        "comments": 1307
       }
     },
     {
@@ -101,8 +101,8 @@
         }
       },
       "statistics": {
-        "viewCount": "36453",
-        "likeCount": "1536",
+        "viewCount": "36532",
+        "likeCount": "1539",
         "favoriteCount": "0",
         "commentCount": "54"
       },
@@ -111,8 +111,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=hFXFI_2RGJQ",
       "engagement": {
-        "views": 36453,
-        "likes": 1536,
+        "views": 36532,
+        "likes": 1539,
         "comments": 54
       }
     },
@@ -139,7 +139,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15675",
+        "viewCount": "15689",
         "likeCount": "1065",
         "favoriteCount": "0",
         "commentCount": "62"
@@ -149,7 +149,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=Drg-mBx_nNs",
       "engagement": {
-        "views": 15675,
+        "views": 15689,
         "likes": 1065,
         "comments": 62
       }
@@ -177,8 +177,8 @@
         }
       },
       "statistics": {
-        "viewCount": "25589",
-        "likeCount": "676",
+        "viewCount": "25613",
+        "likeCount": "679",
         "favoriteCount": "0",
         "commentCount": "27"
       },
@@ -187,8 +187,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=tMPTngM-odY",
       "engagement": {
-        "views": 25589,
-        "likes": 676,
+        "views": 25613,
+        "likes": 679,
         "comments": 27
       }
     },
@@ -215,8 +215,8 @@
         }
       },
       "statistics": {
-        "viewCount": "932466",
-        "likeCount": "1034",
+        "viewCount": "932481",
+        "likeCount": "1035",
         "favoriteCount": "0",
         "commentCount": "9"
       },
@@ -225,8 +225,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=spF3ws6GBY8",
       "engagement": {
-        "views": 932466,
-        "likes": 1034,
+        "views": 932481,
+        "likes": 1035,
         "comments": 9
       }
     },
@@ -253,8 +253,8 @@
         }
       },
       "statistics": {
-        "viewCount": "127825",
-        "likeCount": "7306",
+        "viewCount": "127965",
+        "likeCount": "7313",
         "favoriteCount": "0",
         "commentCount": "372"
       },
@@ -263,8 +263,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=v5JPwgLKb4Q",
       "engagement": {
-        "views": 127825,
-        "likes": 7306,
+        "views": 127965,
+        "likes": 7313,
         "comments": 372
       }
     },
@@ -291,7 +291,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10111",
+        "viewCount": "10114",
         "likeCount": "344",
         "favoriteCount": "0",
         "commentCount": "79"
@@ -301,7 +301,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=6soA664vePw",
       "engagement": {
-        "views": 10111,
+        "views": 10114,
         "likes": 344,
         "comments": 79
       }
@@ -329,7 +329,7 @@
         }
       },
       "statistics": {
-        "viewCount": "14987",
+        "viewCount": "14999",
         "likeCount": "486",
         "favoriteCount": "0",
         "commentCount": "37"
@@ -339,7 +339,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=7RHbLxPajaU",
       "engagement": {
-        "views": 14987,
+        "views": 14999,
         "likes": 486,
         "comments": 37
       }
@@ -367,7 +367,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13102",
+        "viewCount": "13105",
         "likeCount": "603",
         "favoriteCount": "0",
         "commentCount": "162"
@@ -377,7 +377,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=vV9tm7Fl0NE",
       "engagement": {
-        "views": 13102,
+        "views": 13105,
         "likes": 603,
         "comments": 162
       }
@@ -405,7 +405,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15652",
+        "viewCount": "15654",
         "likeCount": "530",
         "favoriteCount": "0",
         "commentCount": "102"
@@ -415,7 +415,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=VrYaA77ctkE",
       "engagement": {
-        "views": 15652,
+        "views": 15654,
         "likes": 530,
         "comments": 102
       }
@@ -443,8 +443,8 @@
         }
       },
       "statistics": {
-        "viewCount": "235090",
-        "likeCount": "8756",
+        "viewCount": "235112",
+        "likeCount": "8755",
         "favoriteCount": "0",
         "commentCount": "937"
       },
@@ -453,8 +453,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=4NiT46FeBvI",
       "engagement": {
-        "views": 235090,
-        "likes": 8756,
+        "views": 235112,
+        "likes": 8755,
         "comments": 937
       }
     },
@@ -481,7 +481,7 @@
         }
       },
       "statistics": {
-        "viewCount": "7121",
+        "viewCount": "7124",
         "likeCount": "294",
         "favoriteCount": "0",
         "commentCount": "30"
@@ -491,7 +491,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=bF_4LtR5FQo",
       "engagement": {
-        "views": 7121,
+        "views": 7124,
         "likes": 294,
         "comments": 30
       }
@@ -519,8 +519,8 @@
         }
       },
       "statistics": {
-        "viewCount": "158920",
-        "likeCount": "9787",
+        "viewCount": "158971",
+        "likeCount": "9788",
         "favoriteCount": "0",
         "commentCount": "540"
       },
@@ -529,8 +529,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=ICDsubz34jQ",
       "engagement": {
-        "views": 158920,
-        "likes": 9787,
+        "views": 158971,
+        "likes": 9788,
         "comments": 540
       }
     },
@@ -557,7 +557,7 @@
         }
       },
       "statistics": {
-        "viewCount": "50633",
+        "viewCount": "50669",
         "likeCount": "1720",
         "favoriteCount": "0",
         "commentCount": "110"
@@ -567,7 +567,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=wUps61-OHbY",
       "engagement": {
-        "views": 50633,
+        "views": 50669,
         "likes": 1720,
         "comments": 110
       }
@@ -595,8 +595,8 @@
         }
       },
       "statistics": {
-        "viewCount": "60944",
-        "likeCount": "2477",
+        "viewCount": "61012",
+        "likeCount": "2478",
         "favoriteCount": "0",
         "commentCount": "157"
       },
@@ -605,8 +605,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=oil1r1_ndXI",
       "engagement": {
-        "views": 60944,
-        "likes": 2477,
+        "views": 61012,
+        "likes": 2478,
         "comments": 157
       }
     },
@@ -633,7 +633,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15367",
+        "viewCount": "15376",
         "likeCount": "316",
         "favoriteCount": "0",
         "commentCount": "33"
@@ -643,7 +643,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=BOnHXo2Dq1c",
       "engagement": {
-        "views": 15367,
+        "views": 15376,
         "likes": 316,
         "comments": 33
       }
@@ -671,8 +671,8 @@
         }
       },
       "statistics": {
-        "viewCount": "15429",
-        "likeCount": "787",
+        "viewCount": "15431",
+        "likeCount": "786",
         "favoriteCount": "0",
         "commentCount": "35"
       },
@@ -681,8 +681,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=PsptA5wfv8o",
       "engagement": {
-        "views": 15429,
-        "likes": 787,
+        "views": 15431,
+        "likes": 786,
         "comments": 35
       }
     },
@@ -709,7 +709,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10309",
+        "viewCount": "10310",
         "likeCount": "281",
         "favoriteCount": "0",
         "commentCount": "20"
@@ -719,7 +719,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=O3sJWzVgHvY",
       "engagement": {
-        "views": 10309,
+        "views": 10310,
         "likes": 281,
         "comments": 20
       }
@@ -747,7 +747,7 @@
         }
       },
       "statistics": {
-        "viewCount": "17649",
+        "viewCount": "17652",
         "likeCount": "321",
         "favoriteCount": "0",
         "commentCount": "17"
@@ -757,7 +757,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=-4W5gcw3tWU",
       "engagement": {
-        "views": 17649,
+        "views": 17652,
         "likes": 321,
         "comments": 17
       }
@@ -785,7 +785,7 @@
         }
       },
       "statistics": {
-        "viewCount": "10375",
+        "viewCount": "10379",
         "favoriteCount": "0",
         "commentCount": "26"
       },
@@ -794,7 +794,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=87gY9T9bDfg",
       "engagement": {
-        "views": 10375,
+        "views": 10379,
         "likes": 0,
         "comments": 26
       }
@@ -822,19 +822,19 @@
         }
       },
       "statistics": {
-        "viewCount": "217203",
-        "likeCount": "7610",
+        "viewCount": "217286",
+        "likeCount": "7612",
         "favoriteCount": "0",
-        "commentCount": "661"
+        "commentCount": "659"
       },
       "duration": "PT25M33S",
       "durationInSeconds": 1533,
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=kjJHBi_iWlc",
       "engagement": {
-        "views": 217203,
-        "likes": 7610,
-        "comments": 661
+        "views": 217286,
+        "likes": 7612,
+        "comments": 659
       }
     },
     {
@@ -860,8 +860,8 @@
         }
       },
       "statistics": {
-        "viewCount": "98571",
-        "likeCount": "6815",
+        "viewCount": "98591",
+        "likeCount": "6814",
         "favoriteCount": "0",
         "commentCount": "1387"
       },
@@ -870,8 +870,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=7RiLM-eDuIw",
       "engagement": {
-        "views": 98571,
-        "likes": 6815,
+        "views": 98591,
+        "likes": 6814,
         "comments": 1387
       }
     },
@@ -898,8 +898,8 @@
         }
       },
       "statistics": {
-        "viewCount": "140352",
-        "likeCount": "4598",
+        "viewCount": "140492",
+        "likeCount": "4599",
         "favoriteCount": "0",
         "commentCount": "220"
       },
@@ -908,8 +908,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=q0djStbKers",
       "engagement": {
-        "views": 140352,
-        "likes": 4598,
+        "views": 140492,
+        "likes": 4599,
         "comments": 220
       }
     },
@@ -936,7 +936,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5433",
+        "viewCount": "5435",
         "likeCount": "376",
         "favoriteCount": "0",
         "commentCount": "52"
@@ -946,7 +946,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=YskMmcjXCY4",
       "engagement": {
-        "views": 5433,
+        "views": 5435,
         "likes": 376,
         "comments": 52
       }
@@ -974,7 +974,7 @@
         }
       },
       "statistics": {
-        "viewCount": "6467",
+        "viewCount": "6468",
         "likeCount": "425",
         "favoriteCount": "0",
         "commentCount": "25"
@@ -984,7 +984,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=GpD9LdfCqgc",
       "engagement": {
-        "views": 6467,
+        "views": 6468,
         "likes": 425,
         "comments": 25
       }
@@ -1012,7 +1012,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5869",
+        "viewCount": "5876",
         "favoriteCount": "0",
         "commentCount": "11"
       },
@@ -1021,7 +1021,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=kNrm7isSP-I",
       "engagement": {
-        "views": 5869,
+        "views": 5876,
         "likes": 0,
         "comments": 11
       }
@@ -1049,7 +1049,7 @@
         }
       },
       "statistics": {
-        "viewCount": "26380",
+        "viewCount": "26381",
         "likeCount": "265",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -1059,7 +1059,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=RGavlCeC6I4",
       "engagement": {
-        "views": 26380,
+        "views": 26381,
         "likes": 265,
         "comments": 6
       }
@@ -1087,7 +1087,7 @@
         }
       },
       "statistics": {
-        "viewCount": "11486",
+        "viewCount": "11488",
         "likeCount": "1255",
         "favoriteCount": "0",
         "commentCount": "8"
@@ -1097,7 +1097,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=gcugwdblfv8",
       "engagement": {
-        "views": 11486,
+        "views": 11488,
         "likes": 1255,
         "comments": 8
       }
@@ -1125,7 +1125,7 @@
         }
       },
       "statistics": {
-        "viewCount": "12090",
+        "viewCount": "12091",
         "favoriteCount": "0",
         "commentCount": "14"
       },
@@ -1134,7 +1134,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=UlcW1rg38sw",
       "engagement": {
-        "views": 12090,
+        "views": 12091,
         "likes": 0,
         "comments": 14
       }
@@ -1162,7 +1162,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15880",
+        "viewCount": "15881",
         "favoriteCount": "0",
         "commentCount": "53"
       },
@@ -1171,7 +1171,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=N1wtMZBJtGQ",
       "engagement": {
-        "views": 15880,
+        "views": 15881,
         "likes": 0,
         "comments": 53
       }
@@ -1199,7 +1199,7 @@
         }
       },
       "statistics": {
-        "viewCount": "17217",
+        "viewCount": "17223",
         "favoriteCount": "0",
         "commentCount": "14"
       },
@@ -1208,7 +1208,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=WhdFV0qDrrc",
       "engagement": {
-        "views": 17217,
+        "views": 17223,
         "likes": 0,
         "comments": 14
       }
@@ -1236,7 +1236,7 @@
         }
       },
       "statistics": {
-        "viewCount": "6760",
+        "viewCount": "6761",
         "favoriteCount": "0",
         "commentCount": "16"
       },
@@ -1245,7 +1245,7 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=KAbr9sFdXuU",
       "engagement": {
-        "views": 6760,
+        "views": 6761,
         "likes": 0,
         "comments": 16
       }
@@ -1273,7 +1273,7 @@
         }
       },
       "statistics": {
-        "viewCount": "9045",
+        "viewCount": "9046",
         "favoriteCount": "0",
         "commentCount": "10"
       },
@@ -1282,7 +1282,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=ZfDzezgMlu4",
       "engagement": {
-        "views": 9045,
+        "views": 9046,
         "likes": 0,
         "comments": 10
       }
@@ -1310,7 +1310,7 @@
         }
       },
       "statistics": {
-        "viewCount": "3621",
+        "viewCount": "3622",
         "favoriteCount": "0",
         "commentCount": "6"
       },
@@ -1319,7 +1319,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=rFuJgy58HPo",
       "engagement": {
-        "views": 3621,
+        "views": 3622,
         "likes": 0,
         "comments": 6
       }
@@ -1347,7 +1347,7 @@
         }
       },
       "statistics": {
-        "viewCount": "5508",
+        "viewCount": "5509",
         "favoriteCount": "0",
         "commentCount": "18"
       },
@@ -1356,7 +1356,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=862FqvaYW0w",
       "engagement": {
-        "views": 5508,
+        "views": 5509,
         "likes": 0,
         "comments": 18
       }
@@ -1384,8 +1384,8 @@
         }
       },
       "statistics": {
-        "viewCount": "16441",
-        "likeCount": "1104",
+        "viewCount": "16443",
+        "likeCount": "1105",
         "favoriteCount": "0",
         "commentCount": "14"
       },
@@ -1394,8 +1394,8 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=_jLtgP5jZx4",
       "engagement": {
-        "views": 16441,
-        "likes": 1104,
+        "views": 16443,
+        "likes": 1105,
         "comments": 14
       }
     },
@@ -1536,7 +1536,7 @@
         }
       },
       "statistics": {
-        "viewCount": "2924",
+        "viewCount": "2925",
         "likeCount": "116",
         "favoriteCount": "0",
         "commentCount": "4"
@@ -1546,7 +1546,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=deNb4BrmXPk",
       "engagement": {
-        "views": 2924,
+        "views": 2925,
         "likes": 116,
         "comments": 4
       }
@@ -1574,8 +1574,8 @@
         }
       },
       "statistics": {
-        "viewCount": "60878",
-        "likeCount": "6082",
+        "viewCount": "60901",
+        "likeCount": "6083",
         "favoriteCount": "0",
         "commentCount": "454"
       },
@@ -1584,8 +1584,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=J-93IHyGWAQ",
       "engagement": {
-        "views": 60878,
-        "likes": 6082,
+        "views": 60901,
+        "likes": 6083,
         "comments": 454
       }
     },
@@ -1612,7 +1612,7 @@
         }
       },
       "statistics": {
-        "viewCount": "9127",
+        "viewCount": "9131",
         "likeCount": "459",
         "favoriteCount": "0",
         "commentCount": "14"
@@ -1622,7 +1622,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=9VXq2RidOFc",
       "engagement": {
-        "views": 9127,
+        "views": 9131,
         "likes": 459,
         "comments": 14
       }
@@ -1650,7 +1650,7 @@
         }
       },
       "statistics": {
-        "viewCount": "14485",
+        "viewCount": "14499",
         "likeCount": "525",
         "favoriteCount": "0",
         "commentCount": "18"
@@ -1660,7 +1660,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=CI4SAWi8AfY",
       "engagement": {
-        "views": 14485,
+        "views": 14499,
         "likes": 525,
         "comments": 18
       }
@@ -1688,7 +1688,7 @@
         }
       },
       "statistics": {
-        "viewCount": "41328",
+        "viewCount": "41332",
         "favoriteCount": "0",
         "commentCount": "38"
       },
@@ -1697,7 +1697,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=Oo4XriNppmw",
       "engagement": {
-        "views": 41328,
+        "views": 41332,
         "likes": 0,
         "comments": 38
       }
@@ -1725,7 +1725,7 @@
         }
       },
       "statistics": {
-        "viewCount": "87958",
+        "viewCount": "87959",
         "likeCount": "1965",
         "favoriteCount": "0",
         "commentCount": "79"
@@ -1735,7 +1735,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=jA7AGV9vOEg",
       "engagement": {
-        "views": 87958,
+        "views": 87959,
         "likes": 1965,
         "comments": 79
       }
@@ -1839,7 +1839,7 @@
         }
       },
       "statistics": {
-        "viewCount": "45379",
+        "viewCount": "45381",
         "likeCount": "531",
         "favoriteCount": "0",
         "commentCount": "19"
@@ -1849,7 +1849,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=FsSdKPUdxQc",
       "engagement": {
-        "views": 45379,
+        "views": 45381,
         "likes": 531,
         "comments": 19
       }
@@ -1877,8 +1877,8 @@
         }
       },
       "statistics": {
-        "viewCount": "289073",
-        "likeCount": "19160",
+        "viewCount": "289087",
+        "likeCount": "19159",
         "favoriteCount": "0",
         "commentCount": "1543"
       },
@@ -1887,8 +1887,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=4lkWl6NL2wg",
       "engagement": {
-        "views": 289073,
-        "likes": 19160,
+        "views": 289087,
+        "likes": 19159,
         "comments": 1543
       }
     },
@@ -1989,7 +1989,7 @@
         }
       },
       "statistics": {
-        "viewCount": "13849",
+        "viewCount": "13851",
         "favoriteCount": "0",
         "commentCount": "38"
       },
@@ -1998,7 +1998,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=o3HEu6X75vQ",
       "engagement": {
-        "views": 13849,
+        "views": 13851,
         "likes": 0,
         "comments": 38
       }
@@ -2064,7 +2064,7 @@
         }
       },
       "statistics": {
-        "viewCount": "26137",
+        "viewCount": "26211",
         "likeCount": "1301",
         "favoriteCount": "0",
         "commentCount": "26"
@@ -2074,7 +2074,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=_Tw6XwO9oIs",
       "engagement": {
-        "views": 26137,
+        "views": 26211,
         "likes": 1301,
         "comments": 26
       }
@@ -2178,7 +2178,7 @@
         }
       },
       "statistics": {
-        "viewCount": "11162",
+        "viewCount": "11164",
         "likeCount": "447",
         "favoriteCount": "0",
         "commentCount": "13"
@@ -2188,7 +2188,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=ne0ehUEZeVE",
       "engagement": {
-        "views": 11162,
+        "views": 11164,
         "likes": 447,
         "comments": 13
       }
@@ -2254,7 +2254,7 @@
         }
       },
       "statistics": {
-        "viewCount": "15862",
+        "viewCount": "15863",
         "likeCount": "574",
         "favoriteCount": "0",
         "commentCount": "26"
@@ -2264,7 +2264,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=7KbkCIEl03I",
       "engagement": {
-        "views": 15862,
+        "views": 15863,
         "likes": 574,
         "comments": 26
       }
@@ -2330,7 +2330,7 @@
         }
       },
       "statistics": {
-        "viewCount": "9157",
+        "viewCount": "9158",
         "likeCount": "330",
         "favoriteCount": "0",
         "commentCount": "15"
@@ -2340,7 +2340,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=Aoeq__Rahxo",
       "engagement": {
-        "views": 9157,
+        "views": 9158,
         "likes": 330,
         "comments": 15
       }
@@ -2406,7 +2406,7 @@
         }
       },
       "statistics": {
-        "viewCount": "7121",
+        "viewCount": "7122",
         "likeCount": "266",
         "favoriteCount": "0",
         "commentCount": "6"
@@ -2416,7 +2416,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=h7Gv6DTdDHY",
       "engagement": {
-        "views": 7121,
+        "views": 7122,
         "likes": 266,
         "comments": 6
       }
@@ -2444,7 +2444,7 @@
         }
       },
       "statistics": {
-        "viewCount": "8961",
+        "viewCount": "8963",
         "likeCount": "384",
         "favoriteCount": "0",
         "commentCount": "22"
@@ -2454,7 +2454,7 @@
       "isShort": true,
       "url": "https://www.youtube.com/watch?v=WWQayp09bUE",
       "engagement": {
-        "views": 8961,
+        "views": 8963,
         "likes": 384,
         "comments": 22
       }
@@ -2634,8 +2634,8 @@
         }
       },
       "statistics": {
-        "viewCount": "36892",
-        "likeCount": "2881",
+        "viewCount": "36900",
+        "likeCount": "2882",
         "favoriteCount": "0",
         "commentCount": "195"
       },
@@ -2644,8 +2644,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=RNhcNKFRXcA",
       "engagement": {
-        "views": 36892,
-        "likes": 2881,
+        "views": 36900,
+        "likes": 2882,
         "comments": 195
       }
     },
@@ -2672,8 +2672,8 @@
         }
       },
       "statistics": {
-        "viewCount": "113035",
-        "likeCount": "3832",
+        "viewCount": "113038",
+        "likeCount": "3830",
         "favoriteCount": "0",
         "commentCount": "234"
       },
@@ -2682,8 +2682,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=iH7oqFxHe6A",
       "engagement": {
-        "views": 113035,
-        "likes": 3832,
+        "views": 113038,
+        "likes": 3830,
         "comments": 234
       }
     },
@@ -2710,8 +2710,8 @@
         }
       },
       "statistics": {
-        "viewCount": "263765",
-        "likeCount": "9101",
+        "viewCount": "263904",
+        "likeCount": "9102",
         "favoriteCount": "0",
         "commentCount": "445"
       },
@@ -2720,8 +2720,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=HPKToUvKRkU",
       "engagement": {
-        "views": 263765,
-        "likes": 9101,
+        "views": 263904,
+        "likes": 9102,
         "comments": 445
       }
     },
@@ -2748,8 +2748,8 @@
         }
       },
       "statistics": {
-        "viewCount": "242031",
-        "likeCount": "6674",
+        "viewCount": "242038",
+        "likeCount": "6673",
         "favoriteCount": "0",
         "commentCount": "286"
       },
@@ -2758,8 +2758,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=h4CbouOCk30",
       "engagement": {
-        "views": 242031,
-        "likes": 6674,
+        "views": 242038,
+        "likes": 6673,
         "comments": 286
       }
     },
@@ -2786,8 +2786,8 @@
         }
       },
       "statistics": {
-        "viewCount": "200626",
-        "likeCount": "16508",
+        "viewCount": "200636",
+        "likeCount": "16506",
         "favoriteCount": "0",
         "commentCount": "679"
       },
@@ -2796,8 +2796,8 @@
       "isShort": false,
       "url": "https://www.youtube.com/watch?v=fNREoy1NvQ0",
       "engagement": {
-        "views": 200626,
-        "likes": 16508,
+        "views": 200636,
+        "likes": 16506,
         "comments": 679
       }
     },
@@ -2825,7 +2825,7 @@
       },
       "statistics": {
         "viewCount": "32475",
-        "likeCount": "1655",
+        "likeCount": "1654",
         "favoriteCount": "0",
         "commentCount": "82"
       },
@@ -2835,2630 +2835,8 @@
       "url": "https://www.youtube.com/watch?v=_4ICxLCJczI",
       "engagement": {
         "views": 32475,
-        "likes": 1655,
+        "likes": 1654,
         "comments": 82
-      }
-    },
-    {
-      "id": "yeGgyzbBB4M",
-      "title": "L’IA permet maintenant de générer de la musique avec juste un texte !",
-      "description": "",
-      "publishedAt": "2023-06-10T09:37:48Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yeGgyzbBB4M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yeGgyzbBB4M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yeGgyzbBB4M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "14295",
-        "likeCount": "610",
-        "favoriteCount": "0",
-        "commentCount": "27"
-      },
-      "duration": "PT59S",
-      "durationInSeconds": 59,
-      "isShort": true,
-      "url": "https://www.youtube.com/watch?v=yeGgyzbBB4M",
-      "engagement": {
-        "views": 14295,
-        "likes": 610,
-        "comments": 27
-      }
-    },
-    {
-      "id": "ECIas_koYcI",
-      "title": "J&#39;ai fait une IA vocal de Emmanuel Macron, voici les résultats.",
-      "description": "L'IA génératif prend de plus en plus de place dans la création de contenus. Aujourd'hui je vous montre une nouvelle frontière qui ...",
-      "publishedAt": "2023-04-30T09:38:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ECIas_koYcI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ECIas_koYcI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ECIas_koYcI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "138121",
-        "likeCount": "5184",
-        "favoriteCount": "0",
-        "commentCount": "477"
-      },
-      "duration": "PT13M55S",
-      "durationInSeconds": 835,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=ECIas_koYcI",
-      "engagement": {
-        "views": 138121,
-        "likes": 5184,
-        "comments": 477
-      }
-    },
-    {
-      "id": "5eupaBf5yk0",
-      "title": "Le test de GPT-4 ! Le nouveau ChatGPT bien plus puissant !",
-      "description": "GPT-4 vient d'être annoncer, il est déjà incorporé dans ChatGPT Plus , l'occasion de passer en revu les nouveautés de ce ...",
-      "publishedAt": "2023-03-15T07:30:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5eupaBf5yk0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5eupaBf5yk0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5eupaBf5yk0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "146529",
-        "likeCount": "5278",
-        "favoriteCount": "0",
-        "commentCount": "292"
-      },
-      "duration": "PT12M2S",
-      "durationInSeconds": 722,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=5eupaBf5yk0",
-      "engagement": {
-        "views": 146529,
-        "likes": 5278,
-        "comments": 292
-      }
-    },
-    {
-      "id": "mq6thEiKe7c",
-      "title": "Les nouveaux robots pas du tout effrayant de Disney.",
-      "description": "On a tendance à penser à des robots dystopiques pour notre futur, mais la réalité pourrait bien être très différentes. Et si les robots ...",
-      "publishedAt": "2023-03-14T11:35:25Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mq6thEiKe7c/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mq6thEiKe7c/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mq6thEiKe7c/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "8036",
-        "likeCount": "363",
-        "favoriteCount": "0",
-        "commentCount": "19"
-      },
-      "duration": "PT59S",
-      "durationInSeconds": 59,
-      "isShort": true,
-      "url": "https://www.youtube.com/watch?v=mq6thEiKe7c",
-      "engagement": {
-        "views": 8036,
-        "likes": 363,
-        "comments": 19
-      }
-    },
-    {
-      "id": "mDB-Uv2QOsQ",
-      "title": "Le visage de Abraham Lincoln en 3D à partir d&#39;un modèle d&#39;IA ?",
-      "description": "shorts Construire votre visage en 3D à partir d'un modèle d'ia c'est possible grâce à des méthodes développé par nvidia et ...",
-      "publishedAt": "2023-02-23T13:08:23Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mDB-Uv2QOsQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mDB-Uv2QOsQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mDB-Uv2QOsQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "5736",
-        "likeCount": "287",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      },
-      "duration": "PT59S",
-      "durationInSeconds": 59,
-      "isShort": true,
-      "url": "https://www.youtube.com/watch?v=mDB-Uv2QOsQ",
-      "engagement": {
-        "views": 5736,
-        "likes": 287,
-        "comments": 6
-      }
-    },
-    {
-      "id": "QEYBMXZG6yY",
-      "title": "La face (très) sombre de ChatGPT ...",
-      "description": "Vous avez tous entendu parler de #ChatGPT un célèbre modèle d'#IA ? Dérrière des news palpipantes, se cache une réalité ...",
-      "publishedAt": "2023-01-29T17:00:30Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QEYBMXZG6yY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QEYBMXZG6yY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QEYBMXZG6yY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "162475",
-        "likeCount": "7524",
-        "favoriteCount": "0",
-        "commentCount": "506"
-      },
-      "duration": "PT10M29S",
-      "durationInSeconds": 629,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=QEYBMXZG6yY",
-      "engagement": {
-        "views": 162475,
-        "likes": 7524,
-        "comments": 506
-      }
-    },
-    {
-      "id": "SrI0HhjK0aI",
-      "title": "L&#39;IA vous fait regarder tout le temps la caméra ?",
-      "description": "Regarder tout le temps la caméra grâce à des modèles d'Intelligences Artificielles ? Nvidia Maxine ...",
-      "publishedAt": "2023-01-23T12:26:49Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SrI0HhjK0aI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SrI0HhjK0aI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SrI0HhjK0aI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "36438",
-        "likeCount": "2061",
-        "favoriteCount": "0",
-        "commentCount": "58"
-      },
-      "duration": "PT1M",
-      "durationInSeconds": 60,
-      "isShort": true,
-      "url": "https://www.youtube.com/watch?v=SrI0HhjK0aI",
-      "engagement": {
-        "views": 36438,
-        "likes": 2061,
-        "comments": 58
-      }
-    },
-    {
-      "id": "ht_yzknn__s",
-      "title": "Le meilleur des robots du CES 2023.",
-      "description": "Quels sont les robots qui vont envahir votre quotidien ? Tout d'horizon des robots présentés au CES 2023 à Las Vegas.",
-      "publishedAt": "2023-01-06T14:07:53Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ht_yzknn__s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ht_yzknn__s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ht_yzknn__s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "46083",
-        "likeCount": "2075",
-        "favoriteCount": "0",
-        "commentCount": "133"
-      },
-      "duration": "PT8M18S",
-      "durationInSeconds": 498,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=ht_yzknn__s",
-      "engagement": {
-        "views": 46083,
-        "likes": 2075,
-        "comments": 133
-      }
-    },
-    {
-      "id": "IXxRtYhALRk",
-      "title": "Le plus gros problème avec TikTok.",
-      "description": "TikTok est l'application la plus téléchargé du monde et la plus utilisé chez les jeunes. Bien que très populaire elle soulève de ...",
-      "publishedAt": "2022-11-16T11:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IXxRtYhALRk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IXxRtYhALRk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IXxRtYhALRk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "147017",
-        "likeCount": "8212",
-        "favoriteCount": "0",
-        "commentCount": "495"
-      },
-      "duration": "PT20M8S",
-      "durationInSeconds": 1208,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=IXxRtYhALRk",
-      "engagement": {
-        "views": 147017,
-        "likes": 8212,
-        "comments": 495
-      }
-    },
-    {
-      "id": "dVVsadPMNNg",
-      "title": "Comment disparaître d&#39;Internet ?",
-      "description": "Notre activité sur internet laisse des trâces. Ces données que nous créons tous les jours dans un espace de vie virtuel peuvent ...",
-      "publishedAt": "2022-09-11T15:18:26Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dVVsadPMNNg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dVVsadPMNNg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dVVsadPMNNg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "218927",
-        "likeCount": "10619",
-        "favoriteCount": "0",
-        "commentCount": "241"
-      },
-      "duration": "PT12M45S",
-      "durationInSeconds": 765,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=dVVsadPMNNg",
-      "engagement": {
-        "views": 218927,
-        "likes": 10619,
-        "comments": 241
-      }
-    },
-    {
-      "id": "Vvqa5bxDU9Y",
-      "title": "Je trouve l&#39;identité d&#39;inconnus dans la rue avec l&#39;IA.",
-      "description": "Avec des outils d'intelligence artificielle et la quantité astronomique de données personnelles que chaque personne laisse trainer ...",
-      "publishedAt": "2022-08-10T10:01:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Vvqa5bxDU9Y/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Vvqa5bxDU9Y/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Vvqa5bxDU9Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "388886",
-        "likeCount": "15587",
-        "favoriteCount": "0",
-        "commentCount": "670"
-      },
-      "duration": "PT12M12S",
-      "durationInSeconds": 732,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=Vvqa5bxDU9Y",
-      "engagement": {
-        "views": 388886,
-        "likes": 15587,
-        "comments": 670
-      }
-    },
-    {
-      "id": "AY8uhQETv4w",
-      "title": "Mon bot drague 35 filles sur Tinder, voici ce que j&#39;ai appris",
-      "description": "Des personnes sur une application de rencontre seraient-elle capable de détecter qu'elle parle à une Intelligence Artificielle ?",
-      "publishedAt": "2022-07-24T10:55:47Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AY8uhQETv4w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AY8uhQETv4w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AY8uhQETv4w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "299026",
-        "likeCount": "13774",
-        "favoriteCount": "0",
-        "commentCount": "557"
-      },
-      "duration": "PT13M20S",
-      "durationInSeconds": 800,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=AY8uhQETv4w",
-      "engagement": {
-        "views": 299026,
-        "likes": 13774,
-        "comments": 557
-      }
-    },
-    {
-      "id": "yqX_Tx9v3SI",
-      "title": "Dalle 2 : Quels sont les métiers qui vont disparaître avec l&#39;IA ?",
-      "description": "Dalle2 est un modèle d'Intelligence Artificielle capable de créer des images à partir d'un simple texte. On fait le tour des métiers ...",
-      "publishedAt": "2022-06-26T09:57:41Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yqX_Tx9v3SI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yqX_Tx9v3SI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yqX_Tx9v3SI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "37040",
-        "likeCount": "1926",
-        "favoriteCount": "0",
-        "commentCount": "121"
-      },
-      "duration": "PT11M34S",
-      "durationInSeconds": 694,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=yqX_Tx9v3SI",
-      "engagement": {
-        "views": 37040,
-        "likes": 1926,
-        "comments": 121
-      }
-    },
-    {
-      "id": "PsX1HQJJ_u4",
-      "title": "Une Intelligence Artificielle de Google consciente ?",
-      "description": "Blake lemoine, ingénieur chez Google, il travail sur LaMDA un modèle d'IA conversationnelle. L'ingénieur prétent que l'IA est ...",
-      "publishedAt": "2022-06-22T16:46:28Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PsX1HQJJ_u4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PsX1HQJJ_u4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PsX1HQJJ_u4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "55636",
-        "likeCount": "2174",
-        "favoriteCount": "0",
-        "commentCount": "187"
-      },
-      "duration": "PT14M4S",
-      "durationInSeconds": 844,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=PsX1HQJJ_u4",
-      "engagement": {
-        "views": 55636,
-        "likes": 2174,
-        "comments": 187
-      }
-    },
-    {
-      "id": "9hL5Zi1DUdU",
-      "title": "La plus grande ARNAQUEUSE de 2022",
-      "description": "Partie 2 : Qui sont les arnaqueurs ? Une publicité qui parle de gagner de l'argent en enregistrant des messages vocaux pour ...",
-      "publishedAt": "2022-06-12T17:34:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9hL5Zi1DUdU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9hL5Zi1DUdU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9hL5Zi1DUdU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "72347",
-        "likeCount": "3534",
-        "favoriteCount": "0",
-        "commentCount": "194"
-      },
-      "duration": "PT26M38S",
-      "durationInSeconds": 1598,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=9hL5Zi1DUdU",
-      "engagement": {
-        "views": 72347,
-        "likes": 3534,
-        "comments": 194
-      }
-    },
-    {
-      "id": "yn9A7ud3eXo",
-      "title": "J’infiltre un réseau d’arnaqueurs.",
-      "description": "Partie 1 : Le schéma Une publicité qui parle de gagner de l'argent en enregistrant des messages vocaux pour entrainer des ...",
-      "publishedAt": "2022-06-05T17:08:22Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yn9A7ud3eXo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yn9A7ud3eXo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yn9A7ud3eXo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "52223",
-        "likeCount": "3579",
-        "favoriteCount": "0",
-        "commentCount": "145"
-      },
-      "duration": "PT13M20S",
-      "durationInSeconds": 800,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=yn9A7ud3eXo",
-      "engagement": {
-        "views": 52223,
-        "likes": 3579,
-        "comments": 145
-      }
-    },
-    {
-      "id": "jmECuuw28wI",
-      "title": "10 raisons de ne PAS devenir Data Scientist.",
-      "description": "Je vous parle VRAIMENT du métier de Data Scientist, le métier au centre du développement de l'Intelligence Artificielle en ...",
-      "publishedAt": "2022-04-17T09:42:23Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jmECuuw28wI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jmECuuw28wI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jmECuuw28wI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "105421",
-        "likeCount": "3602",
-        "favoriteCount": "0",
-        "commentCount": "158"
-      },
-      "duration": "PT14M48S",
-      "durationInSeconds": 888,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=jmECuuw28wI",
-      "engagement": {
-        "views": 105421,
-        "likes": 3602,
-        "comments": 158
-      }
-    },
-    {
-      "id": "XvAbvbQ2LdY",
-      "title": "Le Data Poisoning, c&#39;est quoi ?",
-      "description": "Et si tout le monde pouvait hacker Google ? Les modèles d'Intelligence Artificielle sont au coeur de nos vies. Ces modèles ...",
-      "publishedAt": "2022-02-13T11:00:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XvAbvbQ2LdY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XvAbvbQ2LdY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XvAbvbQ2LdY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "21873",
-        "likeCount": "1702",
-        "favoriteCount": "0",
-        "commentCount": "53"
-      },
-      "duration": "PT10M20S",
-      "durationInSeconds": 620,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=XvAbvbQ2LdY",
-      "engagement": {
-        "views": 21873,
-        "likes": 1702,
-        "comments": 53
-      }
-    },
-    {
-      "id": "uNpJ3vM9j5s",
-      "title": "L&#39;IA rencontre les déchets nucléaires : La solution futuriste à un problème toxique",
-      "description": "Pensez à vous abonner svp ! :-) On va découvrir comment l'Intelligence Artificielle est au service de la gestion des déchets ...",
-      "publishedAt": "2022-01-23T11:41:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uNpJ3vM9j5s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uNpJ3vM9j5s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uNpJ3vM9j5s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "43056",
-        "likeCount": "2052",
-        "favoriteCount": "0",
-        "commentCount": "108"
-      },
-      "duration": "PT20M8S",
-      "durationInSeconds": 1208,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=uNpJ3vM9j5s",
-      "engagement": {
-        "views": 43056,
-        "likes": 2052,
-        "comments": 108
-      }
-    },
-    {
-      "id": "w1i8zc1B-Jw",
-      "title": "Un jour dans la vie d&#39;un DATA SCIENTIST (télétravail)",
-      "description": "Je vous emmène une journée avec moi dans mon travail de Data Scientist. La vidéo contient aussi bien des sous titres anglais ...",
-      "publishedAt": "2022-01-16T13:11:20Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/w1i8zc1B-Jw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/w1i8zc1B-Jw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/w1i8zc1B-Jw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "27323",
-        "likeCount": "1171",
-        "favoriteCount": "0",
-        "commentCount": "83"
-      },
-      "duration": "PT8M23S",
-      "durationInSeconds": 503,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=w1i8zc1B-Jw",
-      "engagement": {
-        "views": 27323,
-        "likes": 1171,
-        "comments": 83
-      }
-    },
-    {
-      "id": "dqtPWWB7ypk",
-      "title": "Ce que la vision de l&#39;IA de Matrix nous apprend sur notre futur.",
-      "description": "L'Intelligence Artificielle de Matrix pourrait elle vraiment exister ? On profite de cette question pour s'interesser à la problématique ...",
-      "publishedAt": "2021-12-17T17:01:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dqtPWWB7ypk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dqtPWWB7ypk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dqtPWWB7ypk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "25969",
-        "likeCount": "1645",
-        "favoriteCount": "0",
-        "commentCount": "69"
-      },
-      "duration": "PT13M36S",
-      "durationInSeconds": 816,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=dqtPWWB7ypk",
-      "engagement": {
-        "views": 25969,
-        "likes": 1645,
-        "comments": 69
-      }
-    },
-    {
-      "id": "RC7GTAKoFGA",
-      "title": "Le Machine Learning c’est quoi ?",
-      "description": "Vulgariser le Machine Learning avec des chats ? C'est ce que je tente de faire dans cette vidéo en 5min. Les liens : Instagram ...",
-      "publishedAt": "2021-12-08T10:57:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/RC7GTAKoFGA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/RC7GTAKoFGA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/RC7GTAKoFGA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "59503",
-        "likeCount": "2793",
-        "favoriteCount": "0",
-        "commentCount": "70"
-      },
-      "duration": "PT5M35S",
-      "durationInSeconds": 335,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=RC7GTAKoFGA",
-      "engagement": {
-        "views": 59503,
-        "likes": 2793,
-        "comments": 70
-      }
-    },
-    {
-      "id": "q8iu6UGQnAk",
-      "title": "J’ai créé la Miss France parfaite avec l&#39;Intelligence Artificielle.",
-      "description": "Et si il était possible de prédire la gagnante du Concours Miss France ? Et si il était possible de créer des visages de Miss France ...",
-      "publishedAt": "2021-12-06T07:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/q8iu6UGQnAk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/q8iu6UGQnAk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/q8iu6UGQnAk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "32527",
-        "likeCount": "2124",
-        "favoriteCount": "0",
-        "commentCount": "97"
-      },
-      "duration": "PT12M7S",
-      "durationInSeconds": 727,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=q8iu6UGQnAk",
-      "engagement": {
-        "views": 32527,
-        "likes": 2124,
-        "comments": 97
-      }
-    },
-    {
-      "id": "6TApSIHkoe0",
-      "title": "Cet algorithme d&#39;IA a détruit 2000 emplois.",
-      "description": "Zillow a perdu des millions d'euros à cause d'un algorithme d'intelligence Artificielle. On comprend ce qu'il s'est passé ensemble.",
-      "publishedAt": "2021-11-14T16:38:40Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6TApSIHkoe0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6TApSIHkoe0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6TApSIHkoe0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "33099",
-        "likeCount": "3015",
-        "favoriteCount": "0",
-        "commentCount": "168"
-      },
-      "duration": "PT13M24S",
-      "durationInSeconds": 804,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=6TApSIHkoe0",
-      "engagement": {
-        "views": 33099,
-        "likes": 3015,
-        "comments": 168
-      }
-    },
-    {
-      "id": "mgU1QWmvjho",
-      "title": "J&#39;analyse mes données UBER.",
-      "description": "Les plateformes en connaissent beaucoup sur vous. Cette vidéo est le 1er épisode d'une série de 10 vidéos où on va analyser ...",
-      "publishedAt": "2021-10-13T15:59:18Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mgU1QWmvjho/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mgU1QWmvjho/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mgU1QWmvjho/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "30020",
-        "likeCount": "2589",
-        "favoriteCount": "0",
-        "commentCount": "188"
-      },
-      "duration": "PT10M38S",
-      "durationInSeconds": 638,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=mgU1QWmvjho",
-      "engagement": {
-        "views": 30020,
-        "likes": 2589,
-        "comments": 188
-      }
-    },
-    {
-      "id": "cR6hVZoQfUg",
-      "title": "La fuite de données Twitch.",
-      "description": "La plus grosse fuite de données de l'histoire. N'hésitez pas à vous abonner. Pour suivre ls actus du thread Twitter c'est ici ...",
-      "publishedAt": "2021-10-06T22:03:54Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cR6hVZoQfUg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cR6hVZoQfUg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cR6hVZoQfUg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "31379",
-        "likeCount": "2282",
-        "favoriteCount": "0",
-        "commentCount": "78"
-      },
-      "duration": "PT5M48S",
-      "durationInSeconds": 348,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=cR6hVZoQfUg",
-      "engagement": {
-        "views": 31379,
-        "likes": 2282,
-        "comments": 78
-      }
-    },
-    {
-      "id": "509G4WOeZzM",
-      "title": "Le GROS PROBLEME avec l&#39;Intelligence Artificielle...",
-      "description": "L'Intelligence Artificielle transforme notre société. Mais l'Intelligence Artificielle a un gros problème.... On en parle. Si vous avez ...",
-      "publishedAt": "2021-09-28T09:31:46Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/509G4WOeZzM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/509G4WOeZzM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/509G4WOeZzM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "20144",
-        "likeCount": "1063",
-        "favoriteCount": "0",
-        "commentCount": "113"
-      },
-      "duration": "PT11M39S",
-      "durationInSeconds": 699,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=509G4WOeZzM",
-      "engagement": {
-        "views": 20144,
-        "likes": 1063,
-        "comments": 113
-      }
-    },
-    {
-      "id": "Pr2iWzbyfMI",
-      "title": "ENQUÊTE - Des hackers vendent vos données personnelles.",
-      "description": "Les fuites de données personnelles sont un des plus grands fléaux technologique de nos sociétés technologiques.Dans cette ...",
-      "publishedAt": "2021-09-03T06:00:51Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Pr2iWzbyfMI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Pr2iWzbyfMI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Pr2iWzbyfMI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "55812",
-        "likeCount": "3171",
-        "favoriteCount": "0",
-        "commentCount": "182"
-      },
-      "duration": "PT31M27S",
-      "durationInSeconds": 1887,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=Pr2iWzbyfMI",
-      "engagement": {
-        "views": 55812,
-        "likes": 3171,
-        "comments": 182
-      }
-    },
-    {
-      "id": "-nH-iBWWbeg",
-      "title": "Nos téléphones nous écoutent ?",
-      "description": "Est ce nos telephones nous écoutent ? Est ce que Google nous écoute ? Une vidéo grand public pour répondre définitivement à ...",
-      "publishedAt": "2021-07-18T09:49:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-nH-iBWWbeg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-nH-iBWWbeg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-nH-iBWWbeg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "171629",
-        "likeCount": "6724",
-        "favoriteCount": "0",
-        "commentCount": "443"
-      },
-      "duration": "PT13M55S",
-      "durationInSeconds": 835,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=-nH-iBWWbeg",
-      "engagement": {
-        "views": 171629,
-        "likes": 6724,
-        "comments": 443
-      }
-    },
-    {
-      "id": "f-ZMJTY32jo",
-      "title": "L’Intelligence Artificielle dans le Football.",
-      "description": "Dans cette vidéo on voit comment l(intelligence artificielle révolution le sport et notamment le football. On parle de DeepMind, ...",
-      "publishedAt": "2021-06-21T06:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/f-ZMJTY32jo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/f-ZMJTY32jo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/f-ZMJTY32jo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "14872",
-        "likeCount": "915",
-        "favoriteCount": "0",
-        "commentCount": "29"
-      },
-      "duration": "PT11M1S",
-      "durationInSeconds": 661,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=f-ZMJTY32jo",
-      "engagement": {
-        "views": 14872,
-        "likes": 915,
-        "comments": 29
-      }
-    },
-    {
-      "id": "ABEDR1Y75p4",
-      "title": "A quoi sert (vraiment) le robot SPOT de Boston Dynamics ?",
-      "description": "Vous l'avez sûrement vu à de nombreuses reprises, dans cette vidéo on parle du célèbre robot \"chien\" de Boston Dynamics 'Spot' ...",
-      "publishedAt": "2021-06-19T06:00:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ABEDR1Y75p4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ABEDR1Y75p4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ABEDR1Y75p4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "12466",
-        "likeCount": "521",
-        "favoriteCount": "0",
-        "commentCount": "47"
-      },
-      "duration": "PT8M5S",
-      "durationInSeconds": 485,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=ABEDR1Y75p4",
-      "engagement": {
-        "views": 12466,
-        "likes": 521,
-        "comments": 47
-      }
-    },
-    {
-      "id": "f3U91xgn5BQ",
-      "title": "La vérité sur mon métier de Data Scientist.",
-      "description": "C'est quoi être vraiment Data Scientist ? Dans cette vidéo je vous raconte 10 choses que j'aurais aimé savoir avant de devenir ...",
-      "publishedAt": "2021-05-19T06:00:08Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/f3U91xgn5BQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/f3U91xgn5BQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/f3U91xgn5BQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "55033",
-        "likeCount": "1909",
-        "favoriteCount": "0",
-        "commentCount": "74"
-      },
-      "duration": "PT8M36S",
-      "durationInSeconds": 516,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=f3U91xgn5BQ",
-      "engagement": {
-        "views": 55033,
-        "likes": 1909,
-        "comments": 74
-      }
-    },
-    {
-      "id": "MhMs2PNz84Q",
-      "title": "Mon IA cuisine un cookie.",
-      "description": "Dans cette vidéo je vous explique le petit projet que j'ai réalisé pour créer un cookie à l'aide de méthodes d'Intelligence Artificielle ...",
-      "publishedAt": "2021-05-09T15:57:52Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MhMs2PNz84Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MhMs2PNz84Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MhMs2PNz84Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "11560",
-        "likeCount": "810",
-        "favoriteCount": "0",
-        "commentCount": "98"
-      },
-      "duration": "PT11M16S",
-      "durationInSeconds": 676,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=MhMs2PNz84Q",
-      "engagement": {
-        "views": 11560,
-        "likes": 810,
-        "comments": 98
-      }
-    },
-    {
-      "id": "IiVBAoDqLC8",
-      "title": "Google me connaît mieux que ma mère.",
-      "description": "Vos données valent plus que du pétrole. Dans cette vidéo on voit comment les géants du numérique dispose de l'intégralité des ...",
-      "publishedAt": "2021-04-23T17:49:43Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IiVBAoDqLC8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IiVBAoDqLC8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IiVBAoDqLC8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "44817",
-        "likeCount": "2809",
-        "favoriteCount": "0",
-        "commentCount": "179"
-      },
-      "duration": "PT10M36S",
-      "durationInSeconds": 636,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=IiVBAoDqLC8",
-      "engagement": {
-        "views": 44817,
-        "likes": 2809,
-        "comments": 179
-      }
-    },
-    {
-      "id": "GhBoDoNfQSw",
-      "title": "Comprendre le transfert Learning. Créer une oeuvre d&#39;art avec l&#39;IA.",
-      "description": "Le neural style transfer est une technique de deep learning utilisé pour transferer un style d'une image vers une autre. Avec cette ...",
-      "publishedAt": "2021-04-09T06:00:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GhBoDoNfQSw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GhBoDoNfQSw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GhBoDoNfQSw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "14868",
-        "likeCount": "514",
-        "favoriteCount": "0",
-        "commentCount": "41"
-      },
-      "duration": "PT20M59S",
-      "durationInSeconds": 1259,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=GhBoDoNfQSw",
-      "engagement": {
-        "views": 14868,
-        "likes": 514,
-        "comments": 41
-      }
-    },
-    {
-      "id": "pL5LOmITQZI",
-      "title": "Comment hacker des Intelligences Artificielles ? Adversarial attack",
-      "description": "Les systèmes d'Intelligence Artificielles ne sont pas aussi robustes qu'on pourrait le penser. Quel type de procédés peuvent être ...",
-      "publishedAt": "2021-03-07T11:44:29Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pL5LOmITQZI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pL5LOmITQZI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pL5LOmITQZI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "23275",
-        "likeCount": "1100",
-        "favoriteCount": "0",
-        "commentCount": "64"
-      },
-      "duration": "PT14M3S",
-      "durationInSeconds": 843,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=pL5LOmITQZI",
-      "engagement": {
-        "views": 23275,
-        "likes": 1100,
-        "comments": 64
-      }
-    },
-    {
-      "id": "6FHtTyZxS5s",
-      "title": "Coder un réseau de neurones convolutifs de classification d&#39;image avec Python et Tensorflow.",
-      "description": "Les réseu de neurones convolutifs sont trés utilisés pour travailler sur les images. Une des applications classiques est la ...",
-      "publishedAt": "2021-02-07T11:00:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6FHtTyZxS5s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6FHtTyZxS5s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6FHtTyZxS5s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "123228",
-        "likeCount": "3062",
-        "favoriteCount": "0",
-        "commentCount": "117"
-      },
-      "duration": "PT20M8S",
-      "durationInSeconds": 1208,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=6FHtTyZxS5s",
-      "engagement": {
-        "views": 123228,
-        "likes": 3062,
-        "comments": 117
-      }
-    },
-    {
-      "id": "GlXeJ9Nr0N0",
-      "title": "Les projets perso, la clé de la réussite.",
-      "description": "Pour réussir ces CV et ces entretiens de Data Science, pour devenir Data Scientist, Data Analyst ou Data Engineer il est essentiel ...",
-      "publishedAt": "2021-02-03T18:09:59Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GlXeJ9Nr0N0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GlXeJ9Nr0N0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GlXeJ9Nr0N0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "27510",
-        "likeCount": "1368",
-        "favoriteCount": "0",
-        "commentCount": "52"
-      },
-      "duration": "PT7M31S",
-      "durationInSeconds": 451,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=GlXeJ9Nr0N0",
-      "engagement": {
-        "views": 27510,
-        "likes": 1368,
-        "comments": 52
-      }
-    },
-    {
-      "id": "ZkRqfp3Id6M",
-      "title": "Combien gagne un Data Scientist ? Les salaires de Data Scientist.",
-      "description": "Les Data Scientist sont parmi les développeurs les mieux payés du monde. Mais quels sont leurs véritables salaires ? Combien ...",
-      "publishedAt": "2021-01-31T17:00:12Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZkRqfp3Id6M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZkRqfp3Id6M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZkRqfp3Id6M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "108233",
-        "likeCount": "2938",
-        "favoriteCount": "0",
-        "commentCount": "285"
-      },
-      "duration": "PT12M7S",
-      "durationInSeconds": 727,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=ZkRqfp3Id6M",
-      "engagement": {
-        "views": 108233,
-        "likes": 2938,
-        "comments": 285
-      }
-    },
-    {
-      "id": "CXf_7W-qACU",
-      "title": "APPRENDRE PYTHON, les bases pour les débutants",
-      "description": "Je vous propose un cours un live pour apprendre a coder en python en 3H. On verra les bases du langages ainsi que les ...",
-      "publishedAt": "2021-01-07T08:43:28Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/CXf_7W-qACU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/CXf_7W-qACU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/CXf_7W-qACU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "187895",
-        "likeCount": "3931",
-        "favoriteCount": "0",
-        "commentCount": "164"
-      },
-      "duration": "PT3H3M5S",
-      "durationInSeconds": 10985,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=CXf_7W-qACU",
-      "engagement": {
-        "views": 187895,
-        "likes": 3931,
-        "comments": 164
-      }
-    },
-    {
-      "id": "PjrhGk4zn0Q",
-      "title": "Les formations pour devenir Data Scientist.",
-      "description": "Les Data Scientists sont souvent très recherchés par beaucoup d'entreprises, c'est vrai. Mais toutes les formations ne se valent ...",
-      "publishedAt": "2020-12-23T17:00:09Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PjrhGk4zn0Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PjrhGk4zn0Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PjrhGk4zn0Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "77625",
-        "likeCount": "2171",
-        "favoriteCount": "0",
-        "commentCount": "216"
-      },
-      "duration": "PT16M16S",
-      "durationInSeconds": 976,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=PjrhGk4zn0Q",
-      "engagement": {
-        "views": 77625,
-        "likes": 2171,
-        "comments": 216
-      }
-    },
-    {
-      "id": "0r_9-LOWUQw",
-      "title": "Un Machine Learning Engineer, c&#39;est quoi ?",
-      "description": "Le métier de Machine Learning Engineer est actuellement un des métiers les plus recherchés au monde, avec beaucoup de ...",
-      "publishedAt": "2020-12-17T17:03:45Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0r_9-LOWUQw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0r_9-LOWUQw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0r_9-LOWUQw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "21356",
-        "likeCount": "705",
-        "favoriteCount": "0",
-        "commentCount": "53"
-      },
-      "duration": "PT10M32S",
-      "durationInSeconds": 632,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=0r_9-LOWUQw",
-      "engagement": {
-        "views": 21356,
-        "likes": 705,
-        "comments": 53
-      }
-    },
-    {
-      "id": "vvFRSZNML30",
-      "title": "Faut il devenir Data Scientist ?",
-      "description": "Data Scientist est un job à la mode, de haut salaire, des promesses de formation rapide etc... Vous le savez sur cette chaine on ...",
-      "publishedAt": "2020-12-14T17:00:15Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vvFRSZNML30/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vvFRSZNML30/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vvFRSZNML30/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "11344",
-        "likeCount": "329",
-        "favoriteCount": "0",
-        "commentCount": "49"
-      },
-      "duration": "PT4M53S",
-      "durationInSeconds": 293,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=vvFRSZNML30",
-      "engagement": {
-        "views": 11344,
-        "likes": 329,
-        "comments": 49
-      }
-    },
-    {
-      "id": "iXo2KdXqMG0",
-      "title": "L&#39;avenir du métier de Data Scientist.",
-      "description": "Est ce que c'est la fin des \"Data Scientist\" ? L'IA va prendre de plus en plus de place dans nos sociétés mais quel noms auront ...",
-      "publishedAt": "2020-11-22T17:00:10Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iXo2KdXqMG0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iXo2KdXqMG0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iXo2KdXqMG0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "10989",
-        "likeCount": "358",
-        "favoriteCount": "0",
-        "commentCount": "70"
-      },
-      "duration": "PT7M47S",
-      "durationInSeconds": 467,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=iXo2KdXqMG0",
-      "engagement": {
-        "views": 10989,
-        "likes": 358,
-        "comments": 70
-      }
-    },
-    {
-      "id": "5FM2YQAFX7w",
-      "title": "L&#39;effet Dunning-Kruger appliqué à notre époque.",
-      "description": "Pensez a vous abonner à la chaine et a liker la vidéo si ca vous a plus svp pour m'aider à faire connaitre la chaine merci ...",
-      "publishedAt": "2020-11-05T17:31:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5FM2YQAFX7w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5FM2YQAFX7w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5FM2YQAFX7w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "16136",
-        "likeCount": "806",
-        "favoriteCount": "0",
-        "commentCount": "99"
-      },
-      "duration": "PT12M33S",
-      "durationInSeconds": 753,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=5FM2YQAFX7w",
-      "engagement": {
-        "views": 16136,
-        "likes": 806,
-        "comments": 99
-      }
-    },
-    {
-      "id": "94Er5r9N6iA",
-      "title": "LIVE - Où en est le marché de l&#39;emploi en Data Science ? Avis et conseils",
-      "description": "Durant ce live nous analyserons le CV de 10 candidats en Data Science, je vous donnerai mon avis sur chacun. Je vous ...",
-      "publishedAt": "2020-10-05T07:17:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/94Er5r9N6iA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/94Er5r9N6iA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/94Er5r9N6iA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "9674",
-        "likeCount": "256",
-        "favoriteCount": "0",
-        "commentCount": "19"
-      },
-      "duration": "PT2H4M",
-      "durationInSeconds": 7440,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=94Er5r9N6iA",
-      "engagement": {
-        "views": 9674,
-        "likes": 256,
-        "comments": 19
-      }
-    },
-    {
-      "id": "hFrAc9gET9M",
-      "title": "C&#39;est quoi un Ingénieur ? Expliqué par un Ingénieur.",
-      "description": "Le métier d'ingénieur est un des métiers les plus prestigieux de France. Mais être ingénieur c'est aussi beaucoup de flou dis ...",
-      "publishedAt": "2020-09-30T21:11:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hFrAc9gET9M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hFrAc9gET9M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hFrAc9gET9M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "256111",
-        "likeCount": "9157",
-        "favoriteCount": "0",
-        "commentCount": "436"
-      },
-      "duration": "PT10M19S",
-      "durationInSeconds": 619,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=hFrAc9gET9M",
-      "engagement": {
-        "views": 256111,
-        "likes": 9157,
-        "comments": 436
-      }
-    },
-    {
-      "id": "lLoEZrAaCEk",
-      "title": "Je vous raconte les 6 crimes que l&#39;IA commettra bientôt.",
-      "description": "D'après la prestigieuse University College of London (UCL), 6 potentielles crimes que l'IA pourrait réaliser dans le futur sont ...",
-      "publishedAt": "2020-09-27T16:09:30Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lLoEZrAaCEk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lLoEZrAaCEk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lLoEZrAaCEk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "9272",
-        "likeCount": "451",
-        "favoriteCount": "0",
-        "commentCount": "37"
-      },
-      "duration": "PT10M4S",
-      "durationInSeconds": 604,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=lLoEZrAaCEk",
-      "engagement": {
-        "views": 9272,
-        "likes": 451,
-        "comments": 37
-      }
-    },
-    {
-      "id": "0-OWLIuJmgE",
-      "title": "Qui sont les Anonymous ? La Vérité.",
-      "description": "PENSEZ A VOUS ABONNER A LA CHAINE SVP !!! C'est important pour m'aider à faire connaitre la chaine. Merci beaucoup ...",
-      "publishedAt": "2020-06-08T20:00:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0-OWLIuJmgE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0-OWLIuJmgE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0-OWLIuJmgE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "30902",
-        "likeCount": "1358",
-        "favoriteCount": "0",
-        "commentCount": "99"
-      },
-      "duration": "PT10M2S",
-      "durationInSeconds": 602,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=0-OWLIuJmgE",
-      "engagement": {
-        "views": 30902,
-        "likes": 1358,
-        "comments": 99
-      }
-    },
-    {
-      "id": "Jggy1d7YbVA",
-      "title": "L&#39;Intelligence Artificielle dans la Médecine.",
-      "description": "L'intelligence artificielle va révolutionner la santé. Dans cette vidéo on explore les changements et les transformations de l'IA ...",
-      "publishedAt": "2020-05-24T18:01:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Jggy1d7YbVA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Jggy1d7YbVA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Jggy1d7YbVA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "9262",
-        "likeCount": "463",
-        "favoriteCount": "0",
-        "commentCount": "50"
-      },
-      "duration": "PT23M21S",
-      "durationInSeconds": 1401,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=Jggy1d7YbVA",
-      "engagement": {
-        "views": 9262,
-        "likes": 463,
-        "comments": 50
-      }
-    },
-    {
-      "id": "51-HWa54wb4",
-      "title": "L&#39;Intelligence Artificielle dans l&#39;Armée. Menace ?",
-      "description": "C'est quoi l'IA dans l'Armée ? Dans cette vidéo on voit comment pourquoi le domaine militaire est un tel domaine fantasmé pour ...",
-      "publishedAt": "2020-05-20T16:54:19Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/51-HWa54wb4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/51-HWa54wb4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/51-HWa54wb4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "8742",
-        "likeCount": "323",
-        "favoriteCount": "0",
-        "commentCount": "34"
-      },
-      "duration": "PT17M31S",
-      "durationInSeconds": 1051,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=51-HWa54wb4",
-      "engagement": {
-        "views": 8742,
-        "likes": 323,
-        "comments": 34
-      }
-    },
-    {
-      "id": "-0USVkgO8zc",
-      "title": "L&#39;IA dans les jeux vidéo",
-      "description": "C'est quoi l'IA dans les jeux vidéo ? Dans cette vidéo on voit comment fonctionne les “IA” tel qu'on les entends dans les jeux ...",
-      "publishedAt": "2020-05-17T17:27:47Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-0USVkgO8zc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-0USVkgO8zc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-0USVkgO8zc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "11216",
-        "likeCount": "562",
-        "favoriteCount": "0",
-        "commentCount": "32"
-      },
-      "duration": "PT18M38S",
-      "durationInSeconds": 1118,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=-0USVkgO8zc",
-      "engagement": {
-        "views": 11216,
-        "likes": 562,
-        "comments": 32
-      }
-    },
-    {
-      "id": "kIJ6m1NKnIQ",
-      "title": "#3 Apprendre à coder en Python pour l&#39;Intelligence Artificielle - 1er Projet Coder un Test ADN",
-      "description": "[RENREGISTREMENT] Diffusé en Live le 17/04/2020 à 18h Supprimer Accidentellement :(.... Lien du Github ...",
-      "publishedAt": "2020-05-01T16:11:55Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kIJ6m1NKnIQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kIJ6m1NKnIQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kIJ6m1NKnIQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "13194",
-        "likeCount": "334",
-        "favoriteCount": "0",
-        "commentCount": "32"
-      },
-      "duration": "PT27M39S",
-      "durationInSeconds": 1659,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=kIJ6m1NKnIQ",
-      "engagement": {
-        "views": 13194,
-        "likes": 334,
-        "comments": 32
-      }
-    },
-    {
-      "id": "ymfTklOJyo0",
-      "title": "#10  Apprendre à coder en Python pour l&#39;Intelligence Artificielle - 2eme projet",
-      "description": "PAS DE LIVE SAMEDI 25 AVRIL. PROCHAIN LIVE DIMANCHE 26 AVRIL. Lien du Github ...",
-      "publishedAt": "2020-04-26T17:52:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ymfTklOJyo0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ymfTklOJyo0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ymfTklOJyo0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "12051",
-        "likeCount": "176",
-        "favoriteCount": "0",
-        "commentCount": "22"
-      },
-      "duration": "PT1H11M27S",
-      "durationInSeconds": 4287,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=ymfTklOJyo0",
-      "engagement": {
-        "views": 12051,
-        "likes": 176,
-        "comments": 22
-      }
-    },
-    {
-      "id": "ycscfnOSv8Y",
-      "title": "#2 Apprendre à coder en Python pour l&#39;Intelligence Artificielle -Programmation Objet et Fonctionelle",
-      "description": "[RENREGISTREMENT] Diffusé en Live le 16/04/2020 à 18h Supprimer Accidentellement :(.... Lien du Github ...",
-      "publishedAt": "2020-04-24T23:53:51Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ycscfnOSv8Y/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ycscfnOSv8Y/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ycscfnOSv8Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "15585",
-        "likeCount": "300",
-        "favoriteCount": "0",
-        "commentCount": "21"
-      },
-      "duration": "PT38M31S",
-      "durationInSeconds": 2311,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=ycscfnOSv8Y",
-      "engagement": {
-        "views": 15585,
-        "likes": 300,
-        "comments": 21
-      }
-    },
-    {
-      "id": "hjFrNN5SXjQ",
-      "title": "#9 - Apprendre à coder en Python pour l&#39;Intelligence Artificielle - Analyse exploratoire",
-      "description": "Lien du Github : https://github.com/anisayari/Youtube-apprendre-python-intelligence-artificielle Rendez -vous tous les jours pour ...",
-      "publishedAt": "2020-04-24T17:41:28Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hjFrNN5SXjQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hjFrNN5SXjQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hjFrNN5SXjQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "5398",
-        "likeCount": "98",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      },
-      "duration": "PT46M21S",
-      "durationInSeconds": 2781,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=hjFrNN5SXjQ",
-      "engagement": {
-        "views": 5398,
-        "likes": 98,
-        "comments": 8
-      }
-    },
-    {
-      "id": "KNToNvz3BJY",
-      "title": "#8 - Apprendre à coder en Python pour l&#39;Intelligence Artificielle - Data Visualisation",
-      "description": "Lien du Github : https://github.com/anisayari/Youtube-apprendre-python-intelligence-artificielle Rendez -vous tous les jours pour ...",
-      "publishedAt": "2020-04-23T17:37:39Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KNToNvz3BJY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KNToNvz3BJY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KNToNvz3BJY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "5735",
-        "likeCount": "113",
-        "favoriteCount": "0",
-        "commentCount": "11"
-      },
-      "duration": "PT1H1M45S",
-      "durationInSeconds": 3705,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=KNToNvz3BJY",
-      "engagement": {
-        "views": 5735,
-        "likes": 113,
-        "comments": 11
-      }
-    },
-    {
-      "id": "ZmFm8r-tt6E",
-      "title": "#5   Apprendre à coder en Python pour l&#39;Intelligence Artificielle  Regex, Exceptions, Modules et + !",
-      "description": "[REUPLOAD DE LA VIDEO] Diffusé en Live le 19/04/2020 à 18h Supprimer Accidentellement :(.... Lien du Github ...",
-      "publishedAt": "2020-04-21T20:04:47Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZmFm8r-tt6E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZmFm8r-tt6E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZmFm8r-tt6E/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "6300",
-        "likeCount": "127",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      },
-      "duration": "PT1H1M32S",
-      "durationInSeconds": 3692,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=ZmFm8r-tt6E",
-      "engagement": {
-        "views": 6300,
-        "likes": 127,
-        "comments": 6
-      }
-    },
-    {
-      "id": "KxPGKqANkkE",
-      "title": "#4   Apprendre à coder en Python pour l&#39;Intelligence Artificielle  Programmation Objet avancée",
-      "description": "[REUPLOAD DE LA VIDEO] Diffusé en Live le 18/04/2020 à 18h Supprimer Accidentellement :(.... Lien du Github ...",
-      "publishedAt": "2020-04-21T19:22:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KxPGKqANkkE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KxPGKqANkkE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KxPGKqANkkE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "10716",
-        "likeCount": "188",
-        "favoriteCount": "0",
-        "commentCount": "21"
-      },
-      "duration": "PT1H3M25S",
-      "durationInSeconds": 3805,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=KxPGKqANkkE",
-      "engagement": {
-        "views": 10716,
-        "likes": 188,
-        "comments": 21
-      }
-    },
-    {
-      "id": "x4QFWcXZuxg",
-      "title": "#1 Apprendre à coder en Python pour l&#39;Intelligence Artificielle - Variables, Structures et fonctions",
-      "description": "[REUPLOAD DE LA VIDEO] Diffusé en Live le 15/04/2020 à 18h Supprimer Accidentellement :(.... Lien du Github ...",
-      "publishedAt": "2020-04-21T19:09:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/x4QFWcXZuxg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/x4QFWcXZuxg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/x4QFWcXZuxg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "38660",
-        "likeCount": "821",
-        "favoriteCount": "0",
-        "commentCount": "58"
-      },
-      "duration": "PT1H10M19S",
-      "durationInSeconds": 4219,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=x4QFWcXZuxg",
-      "engagement": {
-        "views": 38660,
-        "likes": 821,
-        "comments": 58
-      }
-    },
-    {
-      "id": "Lw-jJvsACnY",
-      "title": "#7 - Apprendre à coder en Python pour l&#39;Intelligence Artificielle -  Data Manipulation (intro viz)",
-      "description": "Lien du Github : https://github.com/anisayari/Youtube-apprendre-python-intelligence-artificielle Rendez -vous tous les jours pour ...",
-      "publishedAt": "2020-04-21T17:37:24Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Lw-jJvsACnY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Lw-jJvsACnY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Lw-jJvsACnY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "6146",
-        "likeCount": "120",
-        "favoriteCount": "0",
-        "commentCount": "12"
-      },
-      "duration": "PT1H34S",
-      "durationInSeconds": 3634,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=Lw-jJvsACnY",
-      "engagement": {
-        "views": 6146,
-        "likes": 120,
-        "comments": 12
-      }
-    },
-    {
-      "id": "qMGjh6rKIgw",
-      "title": "#6 - Apprendre à coder en Python pour l&#39;Intelligence Artificielle -  Numpy et Pandas",
-      "description": "Lien du Github : https://github.com/anisayari/Youtube-apprendre-python-intelligence-artificielle Rendez -vous tous les jours pour ...",
-      "publishedAt": "2020-04-20T17:47:28Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qMGjh6rKIgw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qMGjh6rKIgw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qMGjh6rKIgw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "15842",
-        "likeCount": "318",
-        "favoriteCount": "0",
-        "commentCount": "21"
-      },
-      "duration": "PT1H10M28S",
-      "durationInSeconds": 4228,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=qMGjh6rKIgw",
-      "engagement": {
-        "views": 15842,
-        "likes": 318,
-        "comments": 21
-      }
-    },
-    {
-      "id": "Y4V5t1dpbnA",
-      "title": "#3 Apprendre le Deep learning avec Tensorflow - Coder un réseau de neurones avec une backpropagation",
-      "description": "Dans cette vidéo on code ensemble un réseau de neurones simples apprenant par Backpropagation avec Tensorflow, et on ...",
-      "publishedAt": "2020-04-14T22:40:53Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Y4V5t1dpbnA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Y4V5t1dpbnA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Y4V5t1dpbnA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "17619",
-        "likeCount": "340",
-        "favoriteCount": "0",
-        "commentCount": "29"
-      },
-      "duration": "PT28M52S",
-      "durationInSeconds": 1732,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=Y4V5t1dpbnA",
-      "engagement": {
-        "views": 17619,
-        "likes": 340,
-        "comments": 29
-      }
-    },
-    {
-      "id": "YOlOLxrMUOw",
-      "title": "#2 BACKPROPAGATION algorithm. How a neural network learn ? A step by step demonstration.",
-      "description": "It is my first video in English I hope it is ok. I will start to do on my Youtube channel more expert video in English. In this first video ...",
-      "publishedAt": "2020-03-30T17:00:12Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YOlOLxrMUOw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YOlOLxrMUOw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YOlOLxrMUOw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "81951",
-        "likeCount": "1468",
-        "favoriteCount": "0",
-        "commentCount": "102"
-      },
-      "duration": "PT12M44S",
-      "durationInSeconds": 764,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=YOlOLxrMUOw",
-      "engagement": {
-        "views": 81951,
-        "likes": 1468,
-        "comments": 102
-      }
-    },
-    {
-      "id": "t3B1BItaNZE",
-      "title": "#1 Apprendre le Deep learning avec Tensorflow - Part 1 - C&#39;est quoi le Deep Learning ?",
-      "description": "On se retrouve dans la Partie 2 pour voir le principe de Backpropagation, qui est la base pour comprendre fondamentalement ...",
-      "publishedAt": "2020-03-09T19:00:15Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/t3B1BItaNZE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/t3B1BItaNZE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/t3B1BItaNZE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "45260",
-        "likeCount": "1108",
-        "favoriteCount": "0",
-        "commentCount": "35"
-      },
-      "duration": "PT8M52S",
-      "durationInSeconds": 532,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=t3B1BItaNZE",
-      "engagement": {
-        "views": 45260,
-        "likes": 1108,
-        "comments": 35
-      }
-    },
-    {
-      "id": "1pARcazj-Mc",
-      "title": "Data Engineer vs Data Analyst vs Data Scientist, Quelles différences ?",
-      "description": "Quels sont les différences entre un data engineer, un data analyst et un data scientist ? Le Big Data , le machine learning ...",
-      "publishedAt": "2019-12-22T18:03:08Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1pARcazj-Mc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1pARcazj-Mc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1pARcazj-Mc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "79466",
-        "likeCount": "2370",
-        "favoriteCount": "0",
-        "commentCount": "99"
-      },
-      "duration": "PT9M42S",
-      "durationInSeconds": 582,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=1pARcazj-Mc",
-      "engagement": {
-        "views": 79466,
-        "likes": 2370,
-        "comments": 99
-      }
-    },
-    {
-      "id": "bKR3TobqyrU",
-      "title": "Les entretiens de recrutement de Data Scientist.",
-      "description": "Comment se préparer à un test technique de recrutements de Data Scientist ? Quels sont les parties importantes évaluées ?",
-      "publishedAt": "2019-12-01T16:16:46Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bKR3TobqyrU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bKR3TobqyrU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bKR3TobqyrU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "41369",
-        "likeCount": "1285",
-        "favoriteCount": "0",
-        "commentCount": "67"
-      },
-      "duration": "PT7M36S",
-      "durationInSeconds": 456,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=bKR3TobqyrU",
-      "engagement": {
-        "views": 41369,
-        "likes": 1285,
-        "comments": 67
-      }
-    },
-    {
-      "id": "DJIwT4ngp3w",
-      "title": "Music generated by AI - Deep Learning - French Rap. (5 instruments)",
-      "description": "Music generated by AI trained on 1000 musics and 10 artists of French Rap. (5 instruments) I converted all mp3 music to MIDI files ...",
-      "publishedAt": "2019-11-24T15:38:43Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DJIwT4ngp3w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DJIwT4ngp3w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DJIwT4ngp3w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "5518",
-        "likeCount": "89",
-        "favoriteCount": "0",
-        "commentCount": "10"
-      },
-      "duration": "PT3M8S",
-      "durationInSeconds": 188,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=DJIwT4ngp3w",
-      "engagement": {
-        "views": 5518,
-        "likes": 89,
-        "comments": 10
-      }
-    },
-    {
-      "id": "54WmrwVWu1w",
-      "title": "Créer un système de RECONNAISSANCE FACIALE ? Opencv et Python",
-      "description": "PENSEZ A VOUS ABONNER A LA CHAINE SVP !!! C'est important pour m'aider à faire connaitre la chaine. Merci beaucoup ...",
-      "publishedAt": "2019-10-17T16:22:41Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/54WmrwVWu1w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/54WmrwVWu1w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/54WmrwVWu1w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "statistics": {
-        "viewCount": "83277",
-        "likeCount": "1732",
-        "favoriteCount": "0",
-        "commentCount": "246"
-      },
-      "duration": "PT5M48S",
-      "durationInSeconds": 348,
-      "isShort": false,
-      "url": "https://www.youtube.com/watch?v=54WmrwVWu1w",
-      "engagement": {
-        "views": 83277,
-        "likes": 1732,
-        "comments": 246
       }
     }
   ]
